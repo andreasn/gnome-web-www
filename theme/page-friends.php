@@ -283,7 +283,7 @@ function print_form_head($form_name, $product_name) {
                       <input type="hidden" name="sra" value="1" />
 
                       You have chosen to <strong>adopt a hacker</strong> for a monthly amount of:
-                      <input id="amount" type="text" name="a3" size="5" value="10" />
+                      <input id="amount" type="text" name="a3" size="5" value="25" />
                       <select name="currency_code">
                         <option value="USD">
                           $ USD
