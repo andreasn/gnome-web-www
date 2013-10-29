@@ -2,6 +2,7 @@
  
 ukasz Jerna
 Adrian Spirgi
+Alan Morgan
 Albert Hopkins
 Alberto Salmerón Moreno
 Alessandro Mecca
@@ -48,7 +49,9 @@ Jan Girlich
 Jan Leike
 Jan Szpuk
 Jarl Frode Arntzen
+Jason Kelsey
 Jason Weill
+Jenny Morgan
 Jonathan Barnoud
 Jorge Gallegos
 Jose Maria Casanova Crespo
