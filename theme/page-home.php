@@ -29,7 +29,9 @@ require_once("header.php"); ?>
                 <h3>GNOME 3: Ease, comfort and control</h3>
                 <p>GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.</p>
 
-                <p style="text-align: center;"><a class="action_button" href="gnome-3">Discover GNOME 3</a></p>
+		<p style="text-align: center;">
+			<a class="action_button" href="gnome-3">Discover GNOME 3</a>
+			<a class="action_button" href="getting-gnome">Get GNOME 3</a></p>
             </div>
         </div>
     </div>
