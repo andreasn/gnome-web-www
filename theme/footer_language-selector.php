@@ -33,7 +33,7 @@ if (function_exists('wppo_get_all_available_langs') && function_exists('wppo_get
         
         <div class="help_us_translating">
             <?php
-            $join_translation_url = 'http://live.gnome.org/TranslationProject/JoiningTranslation';
+            $join_translation_url = 'http://wiki.gnome.org/TranslationProject/JoiningTranslation';
             printf(__( 'Found a translation bug or want to help translating GNOME? Join the <a href="%1$s">GNOME Translation Project</a>!', 'grass' ), $join_translation_url);
             ?>
         </div>

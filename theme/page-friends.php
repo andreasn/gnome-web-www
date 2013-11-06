@@ -17,7 +17,7 @@ class HackerList {
         if (isset($hackerDict['name'])) {
             if (!isset($hackerDict['shortName'])) {
                 // short name is the name without spaces and html characters
-                $shortName = 'http://live.gnome.org/' . urlencode(str_replace(' ', '', $hackerDict['name']));
+                $shortName = 'http://wiki.gnome.org/' . urlencode(str_replace(' ', '', $hackerDict['name']));
                 $hackerDict['shortName'] = $shortName;
             }
             $returnHtml = sprintf('<li><input type="radio" name="os0" ' .
@@ -319,7 +319,7 @@ function print_form_head($form_name, $product_name) {
                                10 => array('name' => 'Stormy Peters'),
                                11 => array('name' => 'Lucas Rocha'),
                                12 => array('name' => 'Vincent Untz'),
-                               13 => array('name' => 'Luis Villa', 'shortName' => 'http://live.gnome.org/LuisVilla4'),
+                               13 => array('name' => 'Luis Villa', 'shortName' => 'http://wiki.gnome.org/LuisVilla4'),
                                14 => array('name' => 'Karen Sandler'),
                         );
                         
