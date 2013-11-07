@@ -248,8 +248,7 @@ a:visited {
 #foundation h1, h2, h3, h4{
     color: #8c5f93;
 }
-.foundation_nav{
-    background: #fff repeat-x;
+.foundation_nav {
     padding: 0px 0;
     margin-top: 7px;
     margin-bottom: 40px;
