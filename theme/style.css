@@ -927,19 +927,6 @@ dl.icon_list dt img {
     background: -moz-linear-gradient(bottom, #fff, #fff);
 }
 
-#footer div.icons {
-    float: right;
-}
-#footer div.icons a {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-    width: 220px;
-    height: 110px;
-    outline: none;
-    text-decoration: none;
-}
-
 
 #footer ul {
     margin: 0;

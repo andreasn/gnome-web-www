@@ -31,11 +31,7 @@
                 }
             }
             ?>
-    	    
-	    <div class="icons grid_3">
-                 <?php require_once("social_icons.php"); ?>
-            </div>   
-     
+            
             <!-- footnotes -->
             <div id="footnotes" class="grid_9">
                 <?php _e( 'Copyright', 'grass' ); ?> © 2005‒<?php echo date('Y');?> <strong class="gnome_logo"><?php _e( 'The GNOME Project', 'grass' ); ?></strong><br />
