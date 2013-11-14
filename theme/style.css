@@ -1162,3 +1162,10 @@ hr.bottom_shadow {
 .crm-section {
     margin-bottom: 10px;
 }
+
+.col-3 {
+    list-style-type: disc;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}

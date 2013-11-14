@@ -61,8 +61,8 @@ require_once("header.php"); ?>
                         $level_count = count($donor_array);
                         if ($level_count > 1) { // The count behaves weirdly for me. Always +1.
                             echo "<h4>$fname_dispname_map[$level]</h4>\n";
-                            echo '<ul style="list-style-type: disc;">'."\n";
-                            foreach ($donor_array as $donor_line) {
+                            echo '<ul class="col-3">'."\n";
+			     foreach ($donor_array as $donor_line) {
                                 $donor = trim($donor_line, "\x00..\x20");
                                 if (strlen($donor) > 0)
                                     echo "  <li>".htmlspecialchars($donor)."</li>\n";
