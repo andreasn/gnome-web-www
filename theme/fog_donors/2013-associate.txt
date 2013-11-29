@@ -75,6 +75,7 @@ Karol Babioch
 Ladislav Morva
 Leo Hnatek
 Leslie Chen
+Linus Seelinger
 Magne Larsen
 Marc Schröder
 Marco Bollero
@@ -122,6 +123,7 @@ Willem van der Schyff
 William Lazenby
 Wolf Vollprecht
 Young Lee
+Zigurds Gavars
 alibek junisbayev
 bastiaan van der veer
 dominic janczak
