@@ -67,10 +67,12 @@ James M Jinkins
 Jan-Christoph Borchardt
 Jason Jarquín Sevilla
 Jason Kelsey
+Jean-Peer Lorenz
 Jimmy Richards
 Joan Cervan i Andreu
 Joaquim Gil Hoernecke
 Joel Burleson
+Joel Luellwitz
 Johannes Schmid
 John Conkell
 Jonathan MOREL
@@ -81,6 +83,7 @@ Ladislav Morva
 Leo Hnatek
 Leslie Chen
 Linus Seelinger
+Luca Daghino
 Magne Larsen
 Marc Schröder
 Marco Bollero
