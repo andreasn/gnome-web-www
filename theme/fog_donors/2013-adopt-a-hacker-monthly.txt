@@ -90,6 +90,7 @@ Petter Johansson
 Philippe Gauthier
 Prabowo Saputro
 RUI GOUVEIA
+Rob Middleton
 Robert McCallum
 Robin Stocker
 Roxana Murgan León
