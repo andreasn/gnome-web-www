@@ -1,10 +1,16 @@
 ukasz Jerna
+Alan Morgan
 Alessandro Mecca
 Andreas Nilsson
 Andrew Rabon
+Behdad Esfahbod
+Benjamin Lebsanft
+Blaise Alleyne
 Bowie Poag
 Carlos Antonio Marquês Maniero
+Carsten Olsen
 Christian Meißner
+Christopher Meiklejohn
 Clemens Zeitlhofer
 Craig Keogh
 Denis Andrade
@@ -14,21 +20,33 @@ Gregory Wellington
 James Campbell
 Jan Girlich
 Jan Leike
+Jorge Gallegos
 Jose Maria Casanova Crespo
 Jose Miguel Dana Perez
+Juan Jose Marin Martinez
+Julie Pichon
+Julien Thuillier
 Jérôme PERRET
 Kerry Chhim
 Leif Gruenwoldt
 Marc-Andre Lureau
+Marius Gedminas
 Mathias Nicolajsen Kjaergaard
 Matteo Settenvini
 Matthew Lee
+Mikel Olasagasti Uranga
 Pedro de Medeiros
 Petr Volkov
 Petter Johansson
 Philippe Gauthier
+Prabowo Saputro
+RUI GOUVEIA
+Reuben Tracey
 Robert McCallum
+Robin Stocker
+Roxana Murgan León
 Russell Sim
+Scott Mcdonald
 Stefan Lehmann
 Stéphane Démurget
 Susan Roelofs
