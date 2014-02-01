@@ -1,8 +1,10 @@
+ 
 ukasz Jerna
 Alan Morgan
 Alessandro Mecca
 Andreas Nilsson
 Andrew Rabon
+Andrey Ivanov
 Behdad Esfahbod
 Benjamin Lebsanft
 Blaise Alleyne
@@ -13,6 +15,9 @@ Christian Meißner
 Christopher Meiklejohn
 Clemens Zeitlhofer
 Craig Keogh
+Daniel Aleksandersen
+Daniel Doel
+Daniel Thompson
 Denis Andrade
 Dillon Gilmore
 Edward Jakus
@@ -20,6 +25,7 @@ Gregory Wellington
 James Campbell
 Jan Girlich
 Jan Leike
+Jan Szpuk
 Jorge Gallegos
 Jose Maria Casanova Crespo
 Jose Miguel Dana Perez
@@ -29,6 +35,7 @@ Julien Thuillier
 Jérôme PERRET
 Kerry Chhim
 Leif Gruenwoldt
+Manish Sinha
 Marc-Andre Lureau
 Marius Gedminas
 Mathias Nicolajsen Kjaergaard
@@ -52,3 +59,4 @@ Stéphane Démurget
 Susan Roelofs
 Thomas Jenkins
 Zwahlen Joël
+patrizio bruno
