@@ -1,16 +1,16 @@
 #
 # S. Daniel Francis <francis@sugarlabs.org>, 2012.
 # Nicolás Satragno <nsatragno@gnome.org>, 2013.
-# Angelo Córdova <acordinz@gmail.com>, 2012, 2013.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2012, 2013.
+# Angelo Córdova <acordinz@gmail.com>, 2012, 2013, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2013-09-23 17:11+0100\n"
-"PO-Revision-Date: 2013-12-04 17:28+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
+"PO-Revision-Date: 2014-01-30 21:12-0300\n"
+"Last-Translator: Angelo Córdova <acordinz@gmail.com>\n"
+"Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6539,6 +6539,7 @@ msgstr ""
 "Alcalde de Foz do Iguacu, Marcus Mazoni, Presidente de CELEPAR, y Jon "
 "“Maddog” Hall, Presidente de Linux International."
 
+# cadena original en inglés no tiene comillas de cierre al final
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1898(html/p)
 msgid ""
 "“Brazil maintains the largest deployment of the GNOME desktop in the world.” "
@@ -6548,6 +6549,12 @@ msgid ""
 "telecenters, as well as giant hydroelectric power facility here in Foz do "
 "Iguacu."
 msgstr ""
+"«Brasil mantiene el mayor desarrollo del escritorio GNOME en el mundo», dijo "
+"Timothy Ney, Director Ejecutivo de la Fundación GNOME, «Nos complace traer "
+"entrenamiento local para desarrolladores de software jóvenes en Sudamérica y "
+"compartir experiencias en la implementación de GNOME en escuelas y "
+"telecentros comunitarios, así como también en enormes instalaciones de "
+"energía hidroeléctrica aquí en Foz do Iguacu»."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1899(html/p)
 msgid ""
@@ -6582,6 +6589,12 @@ msgid ""
 "conferences in Spain and Brazil are working together on GNOME’s e-mail and "
 "calendaring software through an online conference."
 msgstr ""
+"En Europa, también se discute sobre el escritorio GNOME en «GNOME Days», "
+"organizado por GNOME España con grupos de usuarios el Encuentro GNOME en la "
+"Universidad Rey Juan Carlos en Madrid. Hoy, participantes de las dos "
+"conferencias en España y Brasil están trabajando juntos en el correo "
+"electrónico de GNOME y calendarizando software a través de una conferencia "
+"en línea."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1902(p/a)
 msgid "http://forumgnome.com.br/"
@@ -6604,6 +6617,8 @@ msgid ""
 "<em>New version of the popular, multi-platform desktop environment offers "
 "greater ease and convenience.</em>"
 msgstr ""
+"<em>La nueva versión del entorno de escritorio popular, multiplataforma "
+"ofrece mayor facilidad y comodidad.</em>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1914(html/p)
 msgid ""
@@ -6614,6 +6629,12 @@ msgid ""
 "possibilities, and including thousands of changes which refine the easiest "
 "and friendliest free software desktop."
 msgstr ""
+"BOSTON, Mass - 9 de Marzo, 2005: El Proyecto GNOME lanzó hoy la última "
+"versión del Escritorio y Plataforma de Desarrollo GNOME, el escritorio líder "
+"para sistemas operativos Linux y Unix. La versión 2.10 mejora la usabilidad, "
+"estabilidad y potencia de GNOME integrando multimedia, añadiendo "
+"posibilidades de desarrollo e incluyendo miles de cambios que refinan al "
+"escritorio de software libre más fácil y amigable."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1915(html/p)
 msgid ""
@@ -6628,6 +6649,8 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1916(html/p)
 msgid "Key features GNOME 2.10 users can look forward to include:"
 msgstr ""
+"Las principales características de GNOME 2.10 que los usuarios podrán "
+"disfrutar incluyen:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1918(ul/li)
 msgid ""
@@ -6635,12 +6658,19 @@ msgid ""
 "format support. This makes the Linux desktop’s multimedia support more "
 "competitive with the leading proprietary operating systems."
 msgstr ""
+"Un reproductor de video integrado, «ripeo» de CD con un solo click, y "
+"soporte mejorado para formatos multimedia. Esto hace del escritorio Linux el "
+"soporte multimedia más competitivo con el sistema operativo propietario "
+"líder."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1919(ul/li)
 msgid ""
 "More auto-detection of hardware and network servers, demonstrating GNOME’s "
 "focus on software that ‘Just Works’ without distracting or confusing users."
 msgstr ""
+"Más detección automática de hardware y servidores de red, demostrando que "
+"GNOME se enfoca en software que «sólo funciona» sin distraer o confundir a "
+"los usuarios"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1920(ul/li)
 msgid ""
@@ -6648,6 +6678,9 @@ msgid ""
 "GNOME applications, and use of cross-platform standards, improving both the "
 "user and ISV experience."
 msgstr ""
+"Mejor integración entre aplicaciones, incluyendo enlaces mejorados entre las "
+"aplicaciones de GNOME y el uso de estándares multiplataforma, mejorando "
+"tanto la experiencia de usuario como ISV."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1921(ul/li)
 msgid ""
@@ -6655,6 +6688,10 @@ msgid ""
 "thousands of bug fixes and usability improvements since GNOME 2.8 was "
 "released in September."
 msgstr ""
+"Refinamiento y estabilidad continuos, basados en retroalimentación de los "
+"usuarios. GNOME 2.10 incluye cientos de correcciones de errores y "
+"mejoramiento de la usabilidad desde que GNOME 2.8 fuera lanzado en "
+"septiembre."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1923(html/p)
 msgid ""
@@ -6685,6 +6722,11 @@ msgid ""
 "from <_:a-1/>) allows users and other interested parties to test the latest "
 "GNOME desktop by burning a CD and rebooting – no installation necessary."
 msgstr ""
+"GNOME 2.10 pronto estará disponible como parte de las distribuciones Linux "
+"más populares. Para aquellos que no pueden esperar, el nuevo LiveCD de GNOME "
+"(disponible en <_:a-1/>) permite a usuarios y otras partes interesadas "
+"probar el último escritorio GNOME grabando un CD y reiniciando, no es "
+"necesario instalar."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1927(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2065(p/a)
@@ -6698,6 +6740,11 @@ msgid ""
 "includes the source code for the GNOME 2.10 desktop interface and a complete "
 "set of developer tools and libraries."
 msgstr ""
+"Desarrolladores y usuarios avanzados que deseen instalar la Plataforma de "
+"Escritorio y Desarollo GNOME 2.10 pueden descargar ahora el software "
+"desde <_:a-1/>. El software incluye el código fuente de la interfaz de "
+"escritorio GNOME 2.10 y un conjunto completo de herramientas y bibliotecas "
+"para desarrolladores. "
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1929(html/p)
 msgid ""
@@ -6706,6 +6753,11 @@ msgid ""
 "manager, web browser, and utilities, GNOME is a complete development "
 "environment allowing developers to create new applications."
 msgstr ""
+"GNOME es un proyecto de software libre que desarrolla un escritorio fácil de "
+"usar y completo. Además incluye componentes de escritorio centrales como "
+"menús de sistema, administrador de archivos, navegador web, y utilidades, "
+"GNOME es un entorno de desarrollo completo que permite a los desarrolladores "
+"crear nuevas aplicaciones."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1930(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2068(html/p)
@@ -6718,6 +6770,12 @@ msgid ""
 "(more commonly referred to as Linux), Solaris Operating Environment, HP-UX, "
 "Unix, BSD and Apple’s Darwin."
 msgstr ""
+"Más de 500 desarrolladores de software de cada continente, incluyendo más de "
+"100 desarrolladores pagados, contribuyen su tiempo y esfuerzo al proyecto. "
+"Patrocinadores incluyen líderes de la industria como Fluendo, HP, IBM, "
+"Novell, Red Hat, y Sun. Una variedad de plataformas soportan GNOME, "
+"incluyendo GNU/Linux (más comunmente referido como Linux), Entorno Operativo "
+"Solaris, HP-UX, Unix, BSD y Darwin de Apple."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1931(html/p)
 msgid ""
@@ -6735,7 +6793,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1932(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2070(html/p)
 msgid "More information on GNOME can be found at <_:a-1/>"
-msgstr ""
+msgstr "Más información sobre GNOME se puede encontrar en <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1934(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3051(li/a)
@@ -6751,6 +6809,12 @@ msgid ""
 "the GNOME project and helps determine its vision and roadmap. More "
 "information on the GNOME Foundation can be found at <_:a-1/><_:a-2/>"
 msgstr ""
+"Compuesta por cientos de desarrolladores voluntarios y compañías líderes de "
+"la industria, la Fundación GNOME es una organización comprometida en apoyar "
+"el avance de GNOME. La Fundación es una organización dirigida por miembros, "
+"sin ánimo de lucro que proporciona apoyo financiero, organizacional y legal "
+"al proyecto GNOME y ayuda a determinar su visión y hoja de ruta.Se puede "
+"encontrar más información sobre la Fundación GNOME en <_:a-1/><_:a-2/> "
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1935(html/h3)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2073(html/h3)
@@ -6796,7 +6860,7 @@ msgstr "gnome-press-contact@gnome.org"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1936(html/p)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2074(html/p)
 msgid "Please direct press inquiries to <_:a-1/>."
-msgstr ""
+msgstr "Por favor, dirija sus consultas de prensa a <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1942(post/title)
 msgid "GUADEC 6 Announces Speakers for Stuttgart"
