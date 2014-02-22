@@ -6,13 +6,12 @@
 # Wylmer Wang <wantinghard@gmail.com>, 2012.
 # Sphinx Jiang <yishanj13@gmail.com>, 2013.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
-"POT-Creation-Date: 2013-09-23 17:11+0100\n"
-"PO-Revision-Date: 2014-01-01 16:47+0800\n"
-"Last-Translator: Sphinx Jiang <yishanj13@gmail.com>\n"
+"POT-Creation-Date: 2014-02-21 01:26+0000\n"
+"PO-Revision-Date: 2014-02-22 23:17+0800\n"
+"Last-Translator: Wylmer Wang <wantinghard@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -26,8 +25,8 @@ msgid "GNOME"
 msgstr "GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:8(terms/term)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:65(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:392(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:67(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:366(post/title)
 msgid "News"
 msgstr "新闻"
 
@@ -244,91 +243,102 @@ msgstr "GNOME.Asia 峰会 2014"
 msgid "videos"
 msgstr "视频"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:68(post/title)
-msgid "Resources"
-msgstr "资源"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:71(post/title)
-msgid "The GNOME Project"
-msgstr "GNOME 项目"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:74(post/title)
-msgid "Developer Center"
-msgstr "开发者中心"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:77(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:404(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:62(terms/term)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:79(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:378(h2/a)
 msgid "Documentation"
 msgstr "文档"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:80(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:63(terms/term)
+msgid "GNOME GNOME.Asia Beijing Paper"
+msgstr "GNOME GNOME.Asia 北京文章"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:70(post/title)
+msgid "Resources"
+msgstr "资源"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:73(post/title)
+msgid "The GNOME Project"
+msgstr "GNOME 项目"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:76(post/title)
+msgid "Developer Center"
+msgstr "开发者中心"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:82(post/title)
 msgid "Wiki"
 msgstr "维基"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:83(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:85(post/title)
 msgid "Mailing Lists"
 msgstr "邮件列表"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:86(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:88(post/title)
 msgid "IRC Channels"
 msgstr "IRC 频道"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:89(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:91(post/title)
 msgid "Bug Tracker"
 msgstr "问题追踪系统"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:92(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:94(post/title)
 msgid "Development Code"
 msgstr "开发代码"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:95(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:97(post/title)
 msgid "Build Tool"
 msgstr "构建工具"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:98(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:100(post/title)
 msgid "Latest Release"
 msgstr "最新版本"
 
 # 台湾地区翻译为“星球”，不知道可以不可以采用，如果不采用，建议保持原文
-#: /srv/http/www.gnome.org/html/wppo/static.xml:101(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:103(post/title)
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:104(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:106(post/title)
 msgid "Development News"
 msgstr "开发新闻"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:107(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:109(post/title)
 msgid "Identi.ca"
 msgstr "Identi.ca"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:110(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:112(post/title)
 msgid "Twitter"
 msgstr "Twitter"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:113(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:115(post/title)
 msgid "About Us"
 msgstr "关于我们"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:117(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:119(post/title)
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:120(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:122(html/p)
 msgid "Get things done with ease, comfort and control."
 msgstr "得心应手，简单轻松，尽在掌控"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:121(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:123(html/p)
 msgid ""
 "GNOME 3 has been designed from the ground up to help you have the best "
 "possible computing experience. Learn about what it has to offer."
-msgstr "从一开始设计，GNOME3 就努力向用户提供最好的计算机体验。来了解一下它提供了哪些特性。"
+msgstr ""
+"从一开始设计，GNOME3 就努力向用户提供最好的计算机体验。来了解一下它提供了哪些"
+"特性。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:127(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:127(a/img@alt)
+msgid "Window selection screenshot"
+msgstr "窗口选择截图"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:129(div/h2)
 msgid "Simple and easy to use"
 msgstr "简单易用"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:128(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:130(div/p)
 msgid ""
 "Every part of GNOME 3 has been designed to make it simple and easy to use. "
 "The Activities Overview is an easy way to access all your basic tasks. A "
@@ -337,15 +347,20 @@ msgid ""
 "place is convenient and means that you don’t have to learn your way around a "
 "maze of different technologies."
 msgstr ""
-"GNOME3 各个部分的设计力求简单直观，使用方便。通过活动概览(Activities Overview)能便捷的访问基本任务。"
-"查看打开的窗口，启动应用程序或检查是否有新邮件，您只需按下一个键。所有任务集中在一起，非常方便，"
-"这样您就不必像走迷宫一样四处寻找各种功能了。"
+"GNOME3 各个部分的设计力求简单直观，使用方便。通过活动概览(Activities "
+"Overview)能便捷的访问基本任务。查看打开的窗口，启动应用程序或检查是否有新邮"
+"件，您只需按下一个键。所有任务集中在一起，非常方便，这样您就不必像走迷宫一样"
+"四处寻找各种功能了。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:135(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:135(a/img@alt)
+msgid "GNOME Documents screenshot"
+msgstr "GNOME Documents 截图"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:137(div/h2)
 msgid "Helps you get things done"
 msgstr "高效工作"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:136(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:138(div/p)
 msgid ""
 "GNOME 3 provides a focused working environment that helps you to get things "
 "done, and it is packed with features that will make you more productive. A "
@@ -354,43 +369,62 @@ msgid ""
 "and we even provide a way to turn off notifications when you really need to "
 "concentrate on the task in hand."
 msgstr ""
-"GNOME 3 提供了一个专注的工作环境，帮助您把事情做好；而且，它整合了一些功能，能进一步提高您的工作效率"
-"。强大的搜索功能可以让您从一个地方访问所有的工作项目。并排平铺窗口可以"
-"很方便的同时查看多个文档。如果真的需要全神贯注于手头的任务，您甚至可以关闭系统通知。"
+"GNOME 3 提供了一个专注的工作环境，帮助您把事情做好；而且，它整合了一些功能，"
+"能进一步提高您的工作效率。强大的搜索功能可以让您从一个地方访问所有的工作项"
+"目。并排平铺窗口可以很方便的同时查看多个文档。如果真的需要全神贯注于手头的任"
+"务，您甚至可以关闭系统通知。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:143(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:143(a/img@alt)
+msgid "Message tray screenshot"
+msgstr "消息托盘截图"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:145(div/h2)
 msgid "Puts you in control"
 msgstr "以您为本"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:144(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:146(div/p)
 msgid ""
 "GNOME 3 lets you do the things you want without getting in the way. It won’t "
 "bother you or badger you with demands, and it has been designed to help you "
 "comfortably deal with notifications. Our messaging system lets you quickly "
 "respond to notifications in place or to return to them at a convenient time."
 msgstr ""
-"GNOME3 不会妨碍您做自己想做的事情。它不会用各种询或请求来打扰或纠缠您；它的设计"
-"使处理通知变得轻松方便。通过我们的消息系统，您可以当场回复通知，或在回头方便的时候查看它们。"
+"GNOME3 不会妨碍您做自己想做的事情。它不会用各种询或请求来打扰或纠缠您；它的设"
+"计使处理通知变得轻松方便。通过我们的消息系统，您可以当场回复通知，或在回头方"
+"便的时候查看它们。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:151(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:151(a/img@alt)
+msgid "GNOME Weather screenshot"
+msgstr "GNOME Weather 截图"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:153(div/h2)
 msgid "Finely crafted"
 msgstr "精雕细琢"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:152(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:154(div/p)
+#| msgid ""
+#| "Every aspect of GNOME 3 has been crafted to fit together as a harmoneous "
+#| "whole, so that it offers a consistent and integrated experience. We have "
+#| "paid a huge amount of attention to detail, resulting in a smooth and "
+#| "polished product that is satisfying to use and beautiful to behold."
 msgid ""
-"Every aspect of GNOME 3 has been crafted to fit together as a harmoneous "
+"Every aspect of GNOME 3 has been crafted to fit together as a harmonious "
 "whole, so that it offers a consistent and integrated experience. We have "
 "paid a huge amount of attention to detail, resulting in a smooth and "
 "polished product that is satisfying to use and beautiful to behold."
 msgstr ""
-"GNOME3 的方方面面都经过精心设计，浑然一体，以提供了一致，融合的体验。我们不遗余力专注细节，为您提供流畅优美的产品，操控自如，赏心悦目"
-"。"
+"GNOME3 的方方面面都经过精心设计，浑然一体，以提供了一致，融合的体验。我们不遗"
+"余力专注细节，为您提供流畅优美的产品，操控自如，赏心悦目。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:158(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:159(a/img@alt)
+msgid "Online Accounts screenshot"
+msgstr "在线帐号截图"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:161(div/h2)
 msgid "Easily access all your data"
 msgstr "数据随行"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:159(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:162(div/p)
 msgid ""
 "If you use online services to store documents or to organize your calendar "
 "or contacts, GNOME 3 is just for you. It will seamlessly integrate with your "
@@ -398,42 +432,41 @@ msgid ""
 "This takes the work out of using online accounts and makes it easy to find "
 "things when you need them."
 msgstr ""
-"如果您使用在线服务来存储文件或组织您的日历或通讯录，GNOME 3 正适合您"
-"。它将无缝集成您的网上帐号，让您从同一位置即可访问所有数据。这将简化您使"
-"用在线账户的流程，查找帐号的信息也更加便利。"
+"如果您使用在线服务来存储文件或组织您的日历或通讯录，GNOME 3 正适合您。它将无"
+"缝集成您的网上帐号，让您从同一位置即可访问所有数据。这将简化您使用在线账户的"
+"流程，查找帐号的信息也更加便利。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:164(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:167(html/h2)
 msgid "And much, much more"
 msgstr "更多精彩，等您发现"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:165(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:168(p/a)
 msgid "Find out how to get GNOME 3"
 msgstr "了解如何获取 GNOME 3"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:170(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:173(post/title)
 msgid "Get Involved"
 msgstr "参与"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:172(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:175(html/p)
 msgid ""
 "The GNOME Project is a diverse international community which involves "
 "thousands of contributors, many of whom are volunteers. Anyone can "
 "contribute to GNOME: the project involves a wide range of activities, not "
 "just programming."
 msgstr ""
-"GNOME 项目是一个多元化的国际社区，成千上万的贡献者参与其中，他们很多"
-"是志愿者。任何人都可以为 GNOME 作出贡献：GNOME 项目涉及活动范围广泛，不只是编"
-"程。"
+"GNOME 项目是一个多元化的国际社区，成千上万的贡献者参与其中，他们很多是志愿"
+"者。任何人都可以为 GNOME 作出贡献：GNOME 项目涉及活动范围广泛，不只是编程。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:174(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:177(html/h2)
 msgid "So, what do you want to do?"
 msgstr "您想做点什么？"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:176(div/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:179(div/h3)
 msgid "Write"
 msgstr "写作"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:177(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:180(div/p)
 msgid ""
 "Have a good command of the English language? GNOME is always looking for "
 "writers, whether it is to create user and developer guides for our software, "
@@ -445,20 +478,20 @@ msgstr ""
 "南，丰富 GNOME 网站内容，为 GNOME 杂志写作文章，或只是在博客(还有微博！)上记"
 "录 GNOME 不断涌现的精彩事物。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:178(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:181(p/a)
 msgid "Get started with writing documentation"
 msgstr "开始写作文档"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:179(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:182(p/a)
 msgid "Get involved in the marketing team"
 msgstr "加入市场团队"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:182(div/h3)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:402(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:185(div/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:376(h2/a)
 msgid "Design"
 msgstr "设计"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:183(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:186(div/p)
 msgid ""
 "Graphics and user interface design are an important part of the GNOME "
 "Project. You can help to design user interfaces and in so doing make GNOME "
@@ -469,15 +502,15 @@ msgstr ""
 "GNOME 软件易用、顺手且使用高效。您也可以协助我们的设计师创建图标、网站、服饰"
 "和其他的商品。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:184(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:187(p/a)
 msgid "Get involved in GNOME Design"
 msgstr "参与 GNOME 设计"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:188(div/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:191(div/h3)
 msgid "Translate"
 msgstr "翻译"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:189(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:192(div/p)
 msgid ""
 "The GNOME Project is proud to be available in many different languages, and "
 "this is a key part of our mission to make our software available to as many "
@@ -490,15 +523,15 @@ msgstr ""
 "标来说非常关键。如果您熟练掌握英语和其他语言，您可以加入到众多 GNOME 翻译团队"
 "中的一个，让 GNOME 软件、文档和网能够由世界各地的人们使用。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:190(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:193(p/a)
 msgid "Get started with translating GNOME"
 msgstr "开始翻译 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:193(div/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:196(div/h3)
 msgid "Code"
 msgstr "编程"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:194(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:197(div/p)
 msgid ""
 "There are many coding tasks up for grabs in GNOME, both small and large. You "
 "don’t have to be an expert to start contributing code. GNOME software is "
@@ -509,19 +542,19 @@ msgstr ""
 "GNOME 软件由多种编程语言写成，因此熟悉起来很容易，我们也有很多您可以学习的编"
 "程大牛。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:195(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:198(p/a)
 msgid "Install the latest code and find tasks"
 msgstr "安装最新代码和认领任务"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:196(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:199(p/a)
 msgid "Learn about GNOME technology"
 msgstr "学习 GNOME 技术"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:200(div/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:203(div/h3)
 msgid "Test"
 msgstr "测试"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:201(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:204(div/p)
 msgid ""
 "Making high quality software requires lots of testing. Reporting errors or "
 "possible improvements is a valuable way to help with the project and is a "
@@ -533,60 +566,60 @@ msgstr ""
 "是一个好的起点。如果您喜欢挑战，可以运行我们最新的测试代码，帮助反馈代码更改"
 "带来的影响。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:202(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:205(p/a)
 msgid "Install the latest code"
 msgstr "安装最新代码"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:203(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:206(p/a)
 msgid "Join Bugsquad"
 msgstr "加入除Bug小组"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:206(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:209(html/h2)
 msgid "More information"
 msgstr "更多信息"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:208(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:211(li/a)
 msgid "teams page"
 msgstr "团队页面"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:208(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:211(ul/li)
 msgid ""
 "The <_:a-1/> provides further details on the range of activities involved in "
 "the GNOME Project as well as links to information on getting started."
 msgstr "<_:a-1/> 提供了参与 GNOME 项目各种活动的更多细节和起步信息的相关链接。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:209(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:212(li/a)
 msgid "GNOME Love"
 msgstr "GNOME 之爱"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:209(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:212(ul/li)
 msgid ""
 "The <_:a-1/> initiative provides information and support for GNOME "
 "newcomers, including a list of over 40 mentors available to help you get "
 "started any time."
 msgstr ""
-"<_:a-1/> 计划为 GNOME 新参与者提供信息和支持；它有 40 多名成员，随时愿意帮助你入"
-"门。"
+"<_:a-1/> 计划为 GNOME 新参与者提供信息和支持；它有 40 多名成员，随时愿意帮助"
+"你入门。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:210(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:213(li/a)
 msgid "Google Summer of Code"
 msgstr "Google 编程之夏"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:210(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:213(ul/li)
 msgid "GNOME regularly participates in the <_:a-1/> internship program."
 msgstr "GNOME 经常参与 <_:a-1/> 实习计划。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:216(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:577(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:582(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:219(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:538(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:543(p/a@title)
 msgid "The GNOME Foundation"
 msgstr "GNOME 基金会"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:220(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:223(post/title)
 msgid "Applications"
 msgstr "应用程序"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:222(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:225(html/p)
 msgid ""
 "Hundreds of applications are available for GNOME. They enable people to "
 "engage in a vast range of activities, including everything from playing "
@@ -598,11 +631,16 @@ msgstr ""
 "编辑照片到系统管理。它们绝大多数都是可以自由使用的。下面只是您可以在 GNOME 上"
 "使用的优秀应用程序的一些。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:226(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:227(div/img@alt)
+#| msgid "Banshee"
+msgid "Banshee logo"
+msgstr "Banshee logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:229(h3/a)
 msgid "Banshee"
 msgstr "Banshee"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:227(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:230(div/p)
 msgid ""
 "Banshee media player allows you to play your music and videos. Stay "
 "entertained and up to date with podcasts and video podcasts. Sync your "
@@ -611,11 +649,16 @@ msgstr ""
 "Banshee 媒体播放器允许您播放音乐和视频。享受娱乐并及时更新播客和视频播客。可"
 "同步您的 Android，iPod 等其他设备。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:231(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:232(div/img@alt)
+#| msgid "Cheese"
+msgid "Cheese logo"
+msgstr "Cheese logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:234(h3/a)
 msgid "Cheese"
 msgstr "Cheese"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:232(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:235(div/p)
 msgid ""
 "Cheese allows you to take photos and videos with a webcam. Gather all of "
 "your friends around, have some fun! When you’re done, share your photos and "
@@ -624,11 +667,16 @@ msgstr ""
 "Cheese(茄子大头贴) 允许您使用摄像头拍照和录像。召集身边的好友，用它记录你们的"
 "欢乐！完成拍照和录像后，记得与他们分享哦！"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:238(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:239(div/img@alt)
+#| msgid "Inkscape"
+msgid "Inkscape logo"
+msgstr "Inkscape logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:241(h3/a)
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:239(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:242(div/p)
 msgid ""
 "Draw freely! A vector illustration application, Inkscape allows you to "
 "produce stunning graphics in the web standard SVG format."
@@ -636,11 +684,16 @@ msgstr ""
 "自由绘画吧！作为一款矢量图应用程序，Inkscape 允许您以网络标准的 SVG 格式制作"
 "精美的图形。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:243(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:244(div/img@alt)
+#| msgid "GIMP"
+msgid "GIMP logo"
+msgstr "GIMP logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:246(h3/a)
 msgid "GIMP"
 msgstr "GIMP"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:244(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:247(div/p)
 msgid ""
 "Can be used as a simple paint program, an expert quality photo retouching "
 "program, an online batch processing system, a mass production image "
@@ -650,11 +703,17 @@ msgstr ""
 "可大规模制作的图像渲染器，甚至一款图像格式转换器。"
 
 # 建议与其他应用程序保持一致，不翻译。若翻译，则“扫描易”
-#: /srv/http/www.gnome.org/html/wppo/static.xml:250(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:251(div/img@alt)
+#| msgid "Simple Scan"
+msgid "Simple Scan logo"
+msgstr "Simple Scan logo"
+
+# 建议与其他应用程序保持一致，不翻译。若翻译，则“扫描易”
+#: /srv/http/www.gnome.org/html/wppo/static.xml:253(h3/a)
 msgid "Simple Scan"
 msgstr "Simple Scan"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:251(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:254(div/p)
 msgid ""
 "A really easy way to scan both documents and photos. You can crop out the "
 "bad parts of a photo and rotate it if it is the wrong way round. You can "
@@ -664,11 +723,16 @@ msgstr ""
 "一个轻松扫描文档和照片的工具。您可以裁剪照片坏掉的部分，旋转错误的方向。您可"
 "以打印扫描，将它们导出为 PDF，或保存为多种图像格式。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:255(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:256(div/img@alt)
+#| msgid "Shotwell"
+msgid "Shotwell logo"
+msgstr "Shotwell logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:258(h3/a)
 msgid "Shotwell"
 msgstr "Shotwell"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:256(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:259(div/p)
 msgid ""
 "Organize, edit and publish your photos. It’s easy to crop, sharpen and fix "
 "the colors on your photos. You can also set multiple photos to desktop "
@@ -677,11 +741,16 @@ msgstr ""
 "组织、编辑和公开您的照片。可轻松剪裁、锐化和修复您照片的颜色。您也可以将多张"
 "照片设置为桌面背景幻灯。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:262(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:263(div/img@alt)
+#| msgid "Tomboy"
+msgid "Tomboy Logo"
+msgstr "Tomboy Logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:265(h3/a)
 msgid "Tomboy"
 msgstr "Tomboy"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:263(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:266(div/p)
 msgid ""
 "Tomboy is a note-taking application. Simple and easy to use, but with "
 "potential to help you organize the ideas and information you deal with every "
@@ -689,11 +758,16 @@ msgid ""
 msgstr ""
 "Tomboy 是一款便笺应用。简单易用，但足以帮助您组织思路和日常要处理的信息。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:267(h3/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:268(div/img@alt)
+#| msgid "Rhythmbox"
+msgid "Rhythmbox logo"
+msgstr "Rhythmbox logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:270(h3/a)
 msgid "Rhythmbox"
 msgstr "Rhythmbox"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:268(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:271(div/p)
 msgid ""
 "Organize and listen to your music, rip CDs. Browse, preview, and download "
 "albums from Magnatune and Jamendo. Features Internet radio and last.fm. Has "
@@ -703,11 +777,11 @@ msgstr ""
 "专辑。带有网络电台和 last.fm，对大容量音乐播放器支持良好。"
 
 # 这里的意思不是电池一类，通过原文可以看到这里介绍的一系列的小巧应用
-#: /srv/http/www.gnome.org/html/wppo/static.xml:273(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:276(div/h2)
 msgid "Batteries included"
 msgstr "面面俱到"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:274(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:277(div/p)
 msgid ""
 "GNOME 3 includes all the essential utilities you need, including a web "
 "browser,<br/> image viewer, movie player, text editor, calculator and more."
@@ -715,12 +789,24 @@ msgstr ""
 "GNOME 3 包括了所有您需要的必备工具，包括网络浏览器、<br/> 图像查看器、电影播"
 "放器、文本编辑器、计算器等等。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:285(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:590(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:280(a/img@alt)
+msgid "Epiphany logo"
+msgstr "Epiphany logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:281(a/img@alt)
+msgid "EOG logo"
+msgstr "EOG logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:282(a/img@alt)
+msgid "Totem logo"
+msgstr "Totem logo"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:288(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:551(post/title)
 msgid "Contact Us"
 msgstr "联系我们"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:289(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:292(div/p)
 msgid ""
 "If you have a question or query that is not answered elsewhere on this "
 "website, you can contact us. We provide numerous means of contact, depending "
@@ -729,11 +815,11 @@ msgstr ""
 "如果您有问题或本网站没有给出查询结果，可以联系我们。根据您对 GNOME 的兴趣，我"
 "们提供了多种联系方式。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:290(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:293(div/h2)
 msgid "User help"
 msgstr "用户帮助"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:291(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:294(div/p)
 msgid ""
 "If you have a problem with GNOME software, it is recommended that you seek "
 "help through your distribution. The GNOME Project does provide a number of "
@@ -742,11 +828,11 @@ msgstr ""
 "如果您使用 GNOME 软件遇到问题，推荐您通过您的发行版寻求帮助。当然 GNOME 项目"
 "也提供了多种方式来支持使用它的软件："
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:293(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:296(li/a)
 msgid "an extensive library of help documentation"
 msgstr "一个可扩展的帮助文档库"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:293(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:296(ul/li)
 msgid ""
 "User documentation: the GNOME Project has <_:a-1/> written to help you use "
 "our software. You can view this online or use the built in GNOME help "
@@ -755,11 +841,11 @@ msgstr ""
 "用户文档：GNOME 项目已经编写了 <_:a-1/> 来帮助您使用我们的软件。您可以在线或"
 "使用内建的 GNOME 帮助文档浏览器查看。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:294(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:297(li/a)
 msgid "our bug database"
 msgstr "我们的问题数据库"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:294(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:297(ul/li)
 msgid ""
 "Bug reporting: if you think that you are experiencing an error with our "
 "software, you can search and file reports in <_:a-1/>."
@@ -767,24 +853,24 @@ msgstr ""
 "问题报告：如果您认为在使用我们软件的过程中遇到了错误，你可以在 <_:a-1/> 进行"
 "搜索并提交报告。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:295(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:298(li/a)
 msgid "IRC chat"
 msgstr "IRC 聊天"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:295(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:298(li/a)
 msgid "email mailing lists"
 msgstr "邮件列表"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:295(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:298(li/a)
 msgid "#gnome IRC channel"
 msgstr "#gnome IRC 频道"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:295(li/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:295(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:298(li/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:298(li/a)
 msgid "GNOME List mailing list"
 msgstr "GNOME List 邮件列表"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:295(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:298(ul/li)
 msgid ""
 "Contact users, enthusiasts and developers: the GNOME Project provides "
 "several ways to make contact with users, enthusiasts and developers, "
@@ -795,15 +881,15 @@ msgstr ""
 "联系，包括 <_:a-1/> 和 <_:a-2/>。<_:a-3/> 和 <_:a-4/> 是最普遍的方式：如果您"
 "不确定要使用哪个列表或频道，请采用这两方式。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:297(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:300(div/h2)
 msgid "Partner organisations, sponsors and legal matters"
 msgstr "合作组织、赞助商与法律问题"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:298(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:301(p/a)
 msgid "GNOME Foundation site"
 msgstr "GNOME 基金会站点"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:298(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:301(div/p)
 msgid ""
 "The GNOME Foundation serves as the interface between the GNOME Project and "
 "our partner companies and organisations. See the <_:a-1/> for further "
@@ -812,38 +898,38 @@ msgstr ""
 "GNOME 基金会充当 GNOME 项目与合作公司/组织的中介。查看 <_:a-1/> 了解更多细"
 "节。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:299(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:302(div/h2)
 msgid "Press"
 msgstr "新闻"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:300(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:303(p/a)
 msgid "gnome-press-contact@gnome.org"
 msgstr "gnome-press-contact@gnome.org"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:301(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:430(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:304(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:404(post/title)
 msgid "Press Releases"
 msgstr "新闻公报"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:301(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:304(p/a)
 msgid "press releases page"
 msgstr "新闻公报页面"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:300(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:303(div/p)
 msgid ""
 "Press queries should be sent to <_:a-1/>.<br/> See the <_:a-2/> for recent "
 "announcements."
 msgstr "新闻查询应发送到 <_:a-1/>。<br/> 请访问 <_:a-2/> 查看最近公告。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:302(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:305(div/h2)
 msgid "Website matters"
 msgstr "网站问题"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:303(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:306(p/a)
 msgid "GNOME Website Development list"
 msgstr "GNOME 网站开发列表"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:303(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:306(div/p)
 msgid ""
 "If you have discovered a problem with the GNOME web-site, or wish to help "
 "improve our web-pages, you can email the <_:a-1/>"
@@ -851,23 +937,23 @@ msgstr ""
 "如果您发现了 GNOME 网站的问题，或希望帮助改进我们的网页，您可以给 <_:a-1/> 写"
 "邮件。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:304(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:307(div/h2)
 msgid "Reporting security issues"
 msgstr "报告安全问题"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:305(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:308(p/a)
 msgid "security@gnome.org"
 msgstr "security@gnome.org"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:305(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:308(div/p)
 msgid "Potential security issues should be reported to <_:a-1/>."
 msgstr "潜在的安全问题应该报告给 <_:a-1/>。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:311(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:314(post/title)
 msgid "Source"
 msgstr "源码"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:314(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:317(div/p)
 msgid ""
 "All the GNOME source code is centralized in the GNOME Git repository. Keep "
 "up with the latest changes, add features you want, or test your applications "
@@ -876,15 +962,15 @@ msgstr ""
 "所有的 GNOME 源代码托管在 GNOME Git 仓库。掌握最新变化，添加您需要的功能，或"
 "使用最新的代码测试您的应用。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:315(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:318(div/h2)
 msgid "Choose the right direction"
 msgstr "选对方向"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:316(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:319(p/a)
 msgid "install GNOME inside a distribution"
 msgstr "在发行版本上安装 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:316(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:319(div/p)
 msgid ""
 "While you can easily <_:a-1/>, in some cases you will prefer to enjoy the "
 "wild terminal screen and build GNOME from source. If you are a developer, "
@@ -893,12 +979,12 @@ msgstr ""
 "尽管您可以轻松地 <_:a-1/>，有时您更愿意享受随性的终端屏幕并从源码构建 GNOME。"
 "如果您是一位开发者、程序员、科学家或感点兴趣的人，这里欢迎您。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:317(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:320(div/h2)
 msgid "Understanding the versioning scheme"
 msgstr "理解版本控制方案"
 
 # 可能对版本的相关术语描述不清
-#: /srv/http/www.gnome.org/html/wppo/static.xml:318(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:321(div/p)
 msgid ""
 "GNOME’s versioning scheme uses three numbers: major, minor, and bug fixes. "
 "For a version number of <strong>2.28.1</strong>, <strong>2</strong> is the "
@@ -912,7 +998,7 @@ msgstr ""
 "数次版本号，开发版本使用奇数次版本号。"
 
 # GNOME 3.2 应是最新版本
-#: /srv/http/www.gnome.org/html/wppo/static.xml:319(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:322(div/p)
 msgid ""
 "GNOME releases a new stable version every six months, usually in March and "
 "September. If you want thoroughly tested software and a stable developer "
@@ -923,15 +1009,15 @@ msgstr ""
 "底测试的软件和稳定的开发者平台，稳定版本正合您意。当前的稳定版本为 "
 "<strong>GNOME 3.0</strong>，于 2011 年 4 月发布。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:320(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:323(p/a)
 msgid "GNOME 3.0 Release Notes"
 msgstr "GNOME 3.0 发行注记"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:320(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:323(div/p)
 msgid "To get more information about GNOME 3.0, check out the <_:a-1/>."
 msgstr "要获取更多关于 GNOME 3.0 的信息，可查看 <_:a-1/>。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:321(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:324(div/p)
 msgid ""
 "Between stable releases, the GNOME developers hack on the "
 "<strong>development or ‘unstable’ branch</strong> of GNOME, where lots of "
@@ -945,15 +1031,15 @@ msgstr ""
 "试最新特性感兴趣，或想要开发 GNOME 软件，选择这个版本。当前的开发分支是 "
 "<strong>GNOME 3.1</strong>，将在 2011 年的最后一个季度发布。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:322(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:325(div/h2)
 msgid "Use a Build tool"
 msgstr "使用构建工具"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:323(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:326(p/a)
 msgid "JHBuild"
 msgstr "JHBuild"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:323(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:326(div/p)
 msgid ""
 "<_:a-1/> is a tool developed and used to build the whole GNOME desktop from "
 "the Git source. It can also be used to build other projects creating a "
@@ -965,11 +1051,11 @@ msgstr ""
 "其他创建 GNOME 模块的项目。不像一些构建脚本，JHBuild 可以让您制定想要的模块，"
 "它会构建指定的那些模块及其依赖。我们推荐您使用 JHBuild 从源码构建 GNOME。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:324(div/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:327(div/h2)
 msgid "Explore the Git modules"
 msgstr "探索 Git 模块"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:325(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:328(div/p)
 msgid ""
 "Git is a powerful method of allowing many developers to work on the same "
 "source code. It is used extensively within the GNOME project and often "
@@ -979,23 +1065,23 @@ msgstr ""
 "Git 是让多位开发者在同一源代码工程上协同工作的强大工具。GNOME 广泛使用 git，"
 "它甚至常常成为对 GNOME 感兴趣的新开发者首先要克服的障碍。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:326(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:329(p/a)
 msgid "Discover more about Git"
 msgstr "发现更多关于 Git 的内容"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:326(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:329(p/a)
 msgid "Explore the GNOME source code online"
 msgstr "探索 GNOME 在线源码"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:326(div/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:329(div/p)
 msgid "<_:a-1/> or <_:a-2/>"
 msgstr "<_:a-1/> 或 <_:a-2/>"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:328(div/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:331(div/a)
 msgid "why not join and help us"
 msgstr "为什么不加入进来帮助我们"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:328(div/div)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:331(div/div)
 msgid ""
 "GNOME is a large, fun community, and we all work pretty hard to get this "
 "software out to our users. If you like GNOME, <_:a-1/>?"
@@ -1003,220 +1089,19 @@ msgstr ""
 "GNOME 是一个庞大、有趣的社区，并且我们都在努力地工作让我们的用户使用这款软"
 "件。如果您喜欢 GNOME，<_:a-1/>？"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:337(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:340(post/title)
 msgid "Finance"
 msgstr "财政"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:341(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:344(post/title)
 msgid "Legal and Trademarks"
 msgstr "法律和商标"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:343(p/a)
-msgid "contact"
-msgstr "联系"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:343(html/p)
-msgid ""
-"If you have any questions about any of these practices or GNOME Foundation’s "
-"use of your personal information, please feel free to <_:a-1/> us by e-mail "
-"or by post."
-msgstr ""
-"如果您有任何关于这些行为或 GNOME 基金会对您个人信息使用方面的疑问，请随时给 "
-"<_:a-1/> 写信或发电子邮件。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:344(html/h2)
-msgid "<_:a-1/>Board Confidentiality Policy"
-msgstr "<_:a-1/>董事会保密政策"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:345(html/p)
-msgid ""
-"Part of the Foundation’s purpose is to be a neutral, independent body which "
-"organizations can use as an initial touchpoint before becoming more deeply "
-"involved with The GNOME Project. Through this and other activities, the "
-"members of the Board and employees and agents of the Foundation shall, from "
-"time to time and in the regular course of business, be made aware of "
-"confidential and sensitive information."
-msgstr ""
-"基金会的宗旨之一是成为一个中立，独立的机构，一个深入参与 "
-"GNOME 项目之前的出发点。在基金会和其他的活动中，董事会成员、基金会员工和办事人员"
-"应该时时刻刻、在日常事务中注意保护机密和敏感信息。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:346(html/p)
-msgid ""
-"Members of the board pledge upon their election and upon the publication of "
-"this addendum to keep this information confidential. Employees and agents "
-"pledge upon hiring or publication of this addendum to keep this information "
-"confidential, at risk of termination. Information that is public knowledge "
-"or that individuals came to know through other means is not covered by this "
-"provision. Confidential information must be marked confidential."
-msgstr ""
-"董事会成员承诺从当选和出版此附录之日起，保证这些信息的机密性。员工及办事人员承诺从聘用之日和"
-"或出版此附录之日起，保证这些信息的机密性，否则可能中止聘用。公共知识或个人可通过其他"
-"方式得知的信息，不适用于本条款。机密信息必须注明保密。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:347(html/h2)
-msgid "<_:a-1/>Trademark Licensing"
-msgstr "<_:a-1/> 商标许可证"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:348(p/a)
-msgid "licensing@gnome.org"
-msgstr "licensing@gnome.org"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:348(html/p)
-msgid ""
-"One of the functions that the GNOME Foundation provides is to act as the "
-"legal owner for such GNOME project assets as the GNOME name and the GNOME "
-"foot. We must protect these trademarks in order to keep them. Therefore, we "
-"have some guidelines for their use and a standard agreement for user groups. "
-"These cover many common situations; if you need permission to use the GNOME "
-"trademarks in other ways or have other questions, please contact <_:a-1/>."
-msgstr ""
-"GNOME 基金会的职能之一是作为 GNOME 名称及 GNOME 商标等 GNOME 项目资产的合法"
-"所有者。我们必须保护这些商标以保有这些资产。因此，我们有项目使用指导和用户组"
-"标准协议。它们涵盖了许多常见的情况；如果您想得到授权在其他场合使用 GNOME 商标，或有其他疑问，请联系 <_:a-1/> 。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:349(html/p)
-msgid "The GNOME trademarks are:"
-msgstr "GNOME 商标是："
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:351(ul/li)
-msgid "The word GNOME™"
-msgstr "单词 GNOME™"
-
-# 大脚，脚丫？哈哈，大脚更可爱些。
-#: /srv/http/www.gnome.org/html/wppo/static.xml:352(li/img@alt)
-msgid "GNOME Foot Logo"
-msgstr "GNOME 大脚标志"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:352(ul/li)
-msgid "The GNOME foot logo: <_:img-1/>"
-msgstr "GNOME 大脚标志：<_:img-1/>"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:354(html/h3)
-msgid "Third-party usage guidelines"
-msgstr "第三方使用指南"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:355(p/a)
-msgid "GNOME Foundation trademark usage guidelines for third parties"
-msgstr "GNOME 基金会商标第三方使用指南"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:355(html/p)
-msgid ""
-"Under the law, “fair use” of trademarks is allowed (for example, trademarks "
-"typically may be used without permission in magazine and book reviews). "
-"The <_:a-1/> describe what is appropriate fair use of the GNOME trademarks."
-msgstr ""
-"根据法律规定，“正当使用(fair use)”商标是允许的(例如商标通常可以在杂志和书"
-"评中使用，而无需授权)。<_:a-1/> 阐述了什么是正当合理的使用 GNOME 商标。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:356(html/h3)
-msgid "User group license agreement"
-msgstr "用户组许可协议"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:357(html/p)
-msgid ""
-"User groups are a very important part of the GNOME community. User groups "
-"have a need to make use of the GNOME trademarks in such ways as creating and "
-"distributing marketing materials or creating web sites. (The usage of the "
-"term user group here is broad: the canonical example would be a group of "
-"people using and promoting GNOME in a specific locality, but it could also "
-"be a group of developers working on an open source GNOME application or many "
-"similar non-commerical uses.)"
-msgstr ""
-"用户组是 GNOME 社区的重要组成部分。用户组需要使用 GNOME 商标来创建和分发推广"
-"材料及创建网站等。(用户组这一术语在这里的使用是宽泛的：正式的组举例说应是一批"
-"在特定地区使用和推广 GNOME 的人，但它也可能是一组为某个开源 GNOME 应用程序工"
-"作的开发者，或许多其他类似的非商业用途的用户。)"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:358(p/a)
-msgid "GNOME user group license agreement"
-msgstr "GNOME 用户组许可协议"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:358(html/p)
-msgid ""
-"By agreeing to the <_:a-1/> a user group obtains permission to use the GNOME "
-"trademarks under certain conditions."
-msgstr "通过同意<_:a-1/>，用户小组将获得在特定情况下使用 GNOME 商标的许可。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:359(html/h3)
-msgid ""
-"<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-"
-"weight: bold;\">Sharing Your Personal Information</span>"
-msgstr ""
-"<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-"
-"weight: bold;\">分享您的个人信息</span>"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:360(html/p)
-msgid ""
-"Unless you assent, GNOME Foundation will never share the personal "
-"information you provide to us except as described below."
-msgstr ""
-"未经您许可，GNOME 基金会绝不会将您提供给我们的个人信息共享，但以下描述的情况"
-"除外。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:361(html/p)
-msgid ""
-"GNOME Foundation may disclose your personal information to third parties "
-"under any of the following circumstances:"
-msgstr "在下列任何一种情况下，GNOME 基金会可能会透露您的个人信息给第三方："
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:363(ul/li)
-msgid ""
-"As may be required to fulfill orders, to conduct billing/credit card "
-"processing, to provide service, and for e-mail housing (as a consequence of "
-"uses already described in this Privacy Statement)."
-msgstr ""
-"(本隐私权声明所述条款会导致的)完成订单、计费/信用卡划卡、为客户提供服务，电子邮件管理可能需要时。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:364(ul/li)
-msgid ""
-"As required by law (such as responding to a valid subpoena, warrant, audit, "
-"or agency action, or to prevent fraud). Aggregated information may be "
-"distributed for the purposes of characterizing the GNOME community and "
-"planning future events. All personal details will be removed from such "
-"aggregated information (such aggregated information is used to describe our "
-"services to current and prospective partners and other third parties, and is "
-"not used to contact the subjects of the report.)"
-msgstr ""
-"根据法律规定需要时(如答复有法律效力的传票、律令、审计，机构行为，或防止欺诈"
-")。可能会根据描述 GNOME 社区、规划未来事件需要发布汇总信息。所有个人资"
-"料会从这些汇总信息中删除(汇总信息是用来描述我们对现有和潜在的合作伙伴和其"
-"他第三方提供的服务，不用来联系该报告中的对象。)"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:366(html/h2)
-msgid "<_:a-1/>Pro Bono Counsel"
-msgstr "<_:a-1/> 无偿法律援助"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:367(p/a)
-msgid "Wilson Sonsini Goodrich &amp; Rosati"
-msgstr "Wilson Sonsini Goodrich &amp; Rosati"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:367(p/a)
-msgid "Software Freedom Law Center"
-msgstr "软件自由法律中心"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:367(html/p)
-msgid ""
-"The GNOME Foundation thanks <_:a-1/> and the <_:a-2/> for their ongoing "
-"service as pro bono counsels to the Foundation."
-msgstr "GNOME 基金会感谢 <_:a-1/> 和 <_:a-2/> 持续为本基金会提供无偿法律援助。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:368(html/h2)
-msgid ""
-"<_:a-1/>Employer Identification Number / Federal Tax Identification Number"
-msgstr "<_:a-1/>雇主身份号码/联邦税号"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:369(html/p)
-msgid ""
-"The Employer Identification Number (EIN) of the GNOME Foundation, also known "
-"as Federal Tax Identification Number, is 043572618."
-msgstr "GNOME 基金会雇主身份号码(EIN)，亦称联邦税号，是 043572618。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:374(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:348(post/title)
 msgid "Support GNOME"
 msgstr "支持 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:376(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:350(html/p)
 msgid ""
 "GNOME relies on the support of individuals and companies. This enables us to "
 "organise events, pay for equipment, and have a small amount of staffing. The "
@@ -1225,21 +1110,21 @@ msgstr ""
 "GNOME 依赖于个人和公司的支持。这使得我们得以组织活动、支持设备费用、支付少量"
 "的员工薪酬。GNOME 基金会负责项目的财务事项。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:377(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:351(html/p)
 msgid ""
 "There are many ways that individuals and organisations can support GNOME."
 msgstr "个人和组织可通过多种途径支持 GNOME。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:378(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:352(html/h2)
 msgid "Individuals"
 msgstr "个人"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:380(li/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:380(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:354(li/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:354(li/a)
 msgid "Friends of GNOME"
 msgstr "GNOME 之友"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:380(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:354(ul/li)
 msgid ""
 "The <_:a-1/> scheme allows regular or one time donations to the GNOME "
 "Foundation. The scheme includes great benefits for benefactors."
@@ -1247,31 +1132,31 @@ msgstr ""
 "<_:a-1/> 方案允许定期或一次性捐助 GNOME 基金会。该方案包括对捐助人的诸多收"
 "益。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:381(li/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:355(li/a@title)
 msgid "The GNOME Store"
 msgstr "GNOME 商店"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:381(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:355(li/a)
 msgid "the GNOME Store"
 msgstr "GNOME 商店"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:381(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:355(ul/li)
 msgid ""
 "GNOME benefits from purchases of our merchandise, much of which is available "
 "through <_:a-1/>."
 msgstr "GNOME 从出售我们的商品中获利，大部分商品可通过 <_:a-1/> 购买。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:383(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:357(html/h2)
 msgid "Companies and organisations"
 msgstr "公司和组织"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:385(li/a)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:575(html/h2)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:595(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:359(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:536(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:556(li/a)
 msgid "Board of Directors"
 msgstr "董事会"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:385(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:359(ul/li)
 msgid ""
 "Companies and organisations regularly support GNOME by sponsoring and "
 "supporting our conferences and hackfest events. If you would like to sponsor "
@@ -1280,21 +1165,21 @@ msgstr ""
 "公司和组织可通过赞助和支持我们的会议、hackfest 活动来不断支持 GNOME。如果您要"
 "赞助这样的活动，可以给基金会<_:a-1/>发送邮件。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:386(li/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:360(li/a)
 msgid "GNOME Foundation Advisory Board"
 msgstr "GNOME 基金会顾问委员会"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:386(ul/li)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:360(ul/li)
 msgid ""
 "The <_:a-1/> consists of partner companies and organisations wishing to "
 "participate in and support the GNOME Project."
 msgstr "<_:a-1/> 包括希望参与和支持 GNOME 项目的合作公司和组织。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:395(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:369(post/title)
 msgid "Teams"
 msgstr "团队"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:397(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:371(html/p)
 msgid ""
 "The GNOME Project includes a number of teams which work together on "
 "particular areas of responsibility. Membership is typically informal, and "
@@ -1303,11 +1188,11 @@ msgstr ""
 "GNOME 项目包括多个各司其职、协同工作的团队。成员关系一般是非正式的，许多人常"
 "常属于不止一个团队。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:398(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:372(h2/a)
 msgid "Accessibility"
 msgstr "可访问性"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:399(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:373(html/p)
 msgid ""
 "The GNOME accessibility team works to ensure that the project’s software can "
 "be used by those with physical disabilities. Much of this work involves "
@@ -1316,11 +1201,11 @@ msgstr ""
 "GNOME 可访问性团队的工作是保证项目软件可以为那些身体有障碍的人士使用。工作主"
 "要包括创建、维护和集成专业的可访问性软件。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:400(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:374(h2/a)
 msgid "Bug squad"
 msgstr "BUG 小组"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:401(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:375(html/p)
 msgid ""
 "GNOME’s Bug Squad manages the project’s issue tracker. Their work is "
 "essential to the smooth running of the project. Being a bug squadder is a "
@@ -1329,7 +1214,7 @@ msgstr ""
 "GNOME BUG 小组管理项目的问题追踪系统。他们的工作对项目的平稳运行至关重要。成"
 "为 BUG 小组队员是熟悉 GNOME 的不错方式。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:403(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:377(html/p)
 msgid ""
 "The design of GNOME’s desktop software is a key focus of this team, but it "
 "works on the design of GNOME’s websites, marketing materials and "
@@ -1339,17 +1224,17 @@ msgstr ""
 "设计 GNOME 桌面软件是该团队的工作焦点，但团队还进行 GNOME 网站、市场推广材料"
 "和商品的设计工作。创作和开发 GNOME 图标集是他们的另一项主要活动。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:405(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:379(html/p)
 msgid ""
 "GNOME software comes with extensive documentation both for users and "
 "developers. This documentation is created by the documentation team."
 msgstr "GNOME 软件带有详尽的用户和开发文档。这些文档由文档团队创建。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:406(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:380(h2/a)
 msgid "Marketing"
 msgstr "市场"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:407(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:381(html/p)
 msgid ""
 "GNOME marketing works to promote GNOME and helps to raise funds for the "
 "GNOME Foundation. This involves a range of varied tasks, including creating "
@@ -1359,11 +1244,11 @@ msgstr ""
 "GNOME 市场运作致力于推广 GNOME 和为 GNOME 基金会募集资金。这涉及各类任务，包"
 "括创建 GNOME 网站内容、撰写和编辑文章和新闻故事、微博宣传和会议演说等。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:408(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:382(h2/a)
 msgid "System administration"
 msgstr "系统管理"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:409(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:383(html/p)
 msgid ""
 "The GNOME project hosts a range of development infrastructure, much of which "
 "is vital to its operation. It is the sysadmin team which keep develop and "
@@ -1372,11 +1257,11 @@ msgstr ""
 "GNOME 项目承载了众多不同的开发架构，这些架构对 GNOME 运作非常关键。是 "
 "sysadmin 团队在进行架构硬件软件方面的开发和维护工作。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:410(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:384(h2/a)
 msgid "Translation"
 msgstr "翻译"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:411(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:385(html/p)
 msgid ""
 "GNOME software is available in many languages, as is the project’s "
 "documentation and websites. This translation work is undertaken by the many "
@@ -1385,11 +1270,11 @@ msgstr ""
 "GNOME 软件可以拥有多种语言，项目文档和网站也是如此。翻译工作由遍布世界各地的"
 "多个 GNOME 翻译团队担任。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:412(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:386(h2/a)
 msgid "Usability"
 msgstr "使用性"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:413(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:387(html/p)
 msgid ""
 "The GNOME Usability Project overlaps with the design team. Its mission is to "
 "ensure that GNOME software is easy to use. The maintenance and development "
@@ -1398,21 +1283,21 @@ msgstr ""
 "GNOME 使用性项目与设计团队的职能重叠。其任务是保证 GNOME 软件易于使用。维护和"
 "制作 GNOME 用户界面准则(Human Interface Guidelines)是此团队的核心职责。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:414(h2/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:388(h2/a)
 msgid "Website development"
 msgstr "网站开发"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:415(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:389(html/p)
 msgid ""
 "GNOME hosts a range of web-sites. These are designed, implemented, "
 "maintained and developed by the website team."
 msgstr "GNOME 托管了数个网站。它们由网站团队设计、实现、维护和开发。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:420(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:394(post/title)
 msgid "start"
 msgstr "开始"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:422(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:396(html/p)
 msgid ""
 "This page is a redirect to http://www.gnome.org/get-involved. More "
 "informations at https://bugzilla.gnome.org/show_bug.cgi?id=671471. (averi)"
@@ -1420,23 +1305,23 @@ msgstr ""
 "此页面重定向到 http://www.gnome.org/get-involved。更多信息见  https://"
 "bugzilla.gnome.org/show_bug.cgi?id=671471。(averi)"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:427(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:401(post/title)
 msgid "Home"
 msgstr "主页"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:432(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:406(html/p)
 msgid "Press releases go here."
 msgstr "此处为新闻公报。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:437(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:411(post/title)
 msgid "Getting GNOME"
 msgstr "获取 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:441(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:415(post/title)
 msgid "start-temp"
 msgstr "开始-临时"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:443(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:417(html/p)
 msgid ""
 "Congratulations! If you’re here, you’ve heard about GNOME, and you’re "
 "curious to find out more, and maybe install it yourself. This page can help."
@@ -1444,15 +1329,15 @@ msgstr ""
 "祝贺您！如果您来到这里，一定是对 GNOME 有所耳闻，并有兴趣了解更多，并可能想亲"
 "自尝试安装。此页面将给您帮助。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:444(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:418(html/h2)
 msgid "Finding Out More"
 msgstr "查看更多"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:445(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:419(p/a)
 msgid "About GNOME"
 msgstr "关于 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:445(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:419(html/p)
 msgid ""
 "If you’re not quite clear on what GNOME is, we recommend reading the <_:a-1/"
 "> page, which gives a basic overview of what we do and who we are, and links "
@@ -1463,16 +1348,16 @@ msgstr ""
 "份的基本概况，以及关于我们、我们的工作和为什么我们觉得您应该使用我们的软件的"
 "更多信息的链接。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:446(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:420(html/h2)
 msgid "Installing GNOME"
 msgstr "安装 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:447(html/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:421(html/h3)
 msgid "Stable GNOME"
 msgstr "稳定版 GNOME"
 
 # 这里原文有错
-#: /srv/http/www.gnome.org/html/wppo/static.xml:448(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:422(html/p)
 msgid ""
 "GNOME releases a new stable version every six months, usually in March and "
 "September. If you want thoroughly tested software and a stable developer "
@@ -1483,39 +1368,39 @@ msgstr ""
 "底测试的软件和稳定的开发者平台，稳定版本正合您意。当前 GNOME 的稳定版本为 "
 "GNOME 3.2，于2012年4月发布。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "Fedora"
 msgstr "Fedora"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "Foresight Linux"
 msgstr "Foresight Linux"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "Gentoo"
 msgstr "Gentoo"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "Ubuntu"
 msgstr "Ubuntu"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "FreeBSD"
 msgstr "FreeBSD"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(p/a)
 msgid "OpenSolaris"
 msgstr "OpenSolaris"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:449(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:423(html/p)
 msgid ""
 "The latest stable version of GNOME is generally included after only a few "
 "days in the development version of most distributions, like <_:a-1/>, <_:a-2/"
@@ -1528,11 +1413,11 @@ msgstr ""
 ">。因此，几周后您就可以通过安装喜爱的发行版的最新版本来获取 GNOME 的最新稳定"
 "版本。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:450(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:424(p/a)
 msgid "GNOME 3.2"
 msgstr "GNOME 3.2"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:450(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:424(html/p)
 msgid ""
 "To get more information about what is new in GNOME 3.2, and how to get it, "
 "read the <_:a-1/> start page."
@@ -1540,11 +1425,11 @@ msgstr ""
 "想知道更多关于 GNOME 3.2 新功能的信息，和如何获取 GNOME 3.2，请阅读<_:a-1/>起"
 "始页面。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:451(html/h3)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:425(html/h3)
 msgid "Development GNOME"
 msgstr "开发 GNOME"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:452(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:426(html/p)
 msgid ""
 "Between stable releases, the GNOME developers hack on the development or "
 "‘unstable’ branch of GNOME, where lots of fun happens, but also occasionally "
@@ -1558,11 +1443,11 @@ msgstr ""
 "试最新特性感兴趣，或想要开发 GNOME 软件，选择这个版本。当前的开发分支是 "
 "<strong>GNOME 3.3</strong>，计划于2012年四月发布。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:453(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:427(p/a)
 msgid "GNOME 3.2 Release Planning page"
 msgstr "GNOME 3.2 发布计划页面"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:453(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:427(html/p)
 msgid ""
 "To get more information about GNOME 3.2, check out the <_:a-1/>, which "
 "includes calendars, some feature notes, and other information."
@@ -1570,7 +1455,7 @@ msgstr ""
 "要了解更多关于 GNOME 3.2 的信息，请查阅 <_:a-1/>，其中包括了日历、一些功能说"
 "明和其他信息。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:454(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:428(html/p)
 msgid ""
 "If you’ve read up, and are ready to take the plunge, see our page on "
 "building and installing development versions of GNOME."
@@ -1578,15 +1463,15 @@ msgstr ""
 "如果您阅读了以上内容，并准备好了挑战，请查看我们关于构建和安装 GNOME 开发版本"
 "的页面。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:455(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:429(html/h2)
 msgid "Getting Involved"
 msgstr "参与"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:456(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:430(p/a)
 msgid "getting involved"
 msgstr "参与"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:456(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:430(html/p)
 msgid ""
 "GNOME is a large, fun community, and we all work pretty hard to get this "
 "software out to our users. If you’d like to join us and help advance free, "
@@ -1596,227 +1481,461 @@ msgstr ""
 "软件。如果您想加入我们，帮助推动自由、可用的桌面软件发展，我们提供以下信息，"
 "帮助您开始 <_:a-1/>。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:461(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:435(post/title)
 msgid "Become a Friend of GNOME"
 msgstr "成为 GNOME 之友"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:463(html/h4)
-msgid "Donate today to help make GNOME safer than ever!"
-msgstr "今天就捐赠，帮助 GNOME 变得更加安全！"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:464(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:437(html/p)
 msgid ""
-"GNOME was founded with the goal of promoting software freedom. We remain "
-"committed to the empowerment of our users, and are always looking for ways "
-"to improve our software. We want people to be safe, in control, and enriched "
-"by the software they use. The GNOME community was inspired by the keynote "
-"delivered by Jacob Applebaum on the topic of privacy at this years’ GUADEC "
-"and was reminded of our mission. To this end, GNOME is working on a new "
-"campaign focused on privacy. Through this campaign, we aim to enhance GNOME "
-"3 so that it offers one of the most secure computing environments available."
-msgstr ""
-"GNOME 的创立目标是推广软件自由。同时，我们致力于保障用户权利，并一直在以各种途径"
-"改善我们的软件。我们希望人们可以安全的使用软件，对软件有控制权，能从软件中获益。。"
-"Jacob Applebaum 今年在 GUADEC 关于隐私的主题演讲鼓舞了 GNOME 社区，提醒了我们的"
-"使命。为此，GNOME 正在开展关注隐私的新运动。通过这次运动，我们想加强 "
-"GNOME 3，使它成为最安全的计算环境之一。"
+"Please support GNOME’s mission to bring free and accessible computing to "
+"everyone! Your donation will help to keep the GNOME Foundation’s lights on – "
+"we’ll use it for infrastructure, hardware, and to help hackers travel to "
+"conferences where they’ll keep improving GNOME."
+msgstr "请支持 GNOME 将自由和无障碍计算带给每个人的行动！您的捐助将维持 GNOME"
+" 基金会的运作 - 我们将把资金用于基础设施、硬件和帮助开发者参加会议，以帮助他们持续改进 GNOME。"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:465(html/p)
-msgid ""
-"Proceeds from the privacy fundraising campaign will be used to fund "
-"development efforts such as:"
-msgstr "从隐私筹款活动所得款项将用于资助开发工作，例如："
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:468(ul/li)
-msgid "application containment"
-msgstr "应用权限约束"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:469(ul/li)
-msgid "enhanced disk encryption support"
-msgstr "增强的磁盘加密支持"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:470(ul/li)
-#| msgid "More information"
-msgid "Tor integration"
-msgstr "Tor 集成"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:471(ul/li)
-msgid "user control over diagnostic reporting features"
-msgstr "对诊断报告的用户控制功能"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:472(ul/li)
-msgid "robust VPN routing"
-msgstr "健壮的 VPN 路由"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:473(ul/li)
-msgid "application integration with system-wide privacy settings"
-msgstr "应用程序与系统范围的隐私设置的集成"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:474(ul/li)
-msgid "controls for how GNOME devices are identified on local networks"
-msgstr "控制 GNOME 设备如何在本地网络识别"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:475(ul/li)
-msgid "anti-phishing features for Web, GNOME’s web browser"
-msgstr "GNOME 网络浏览器 Web 的反钓鱼功能"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:482(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:442(post/title)
 msgid "Testimonials"
 msgstr "使用感言"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:486(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:446(post/title)
 msgid "List of Previous Donors"
 msgstr "上一轮捐赠人名单"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:490(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:450(post/title)
 msgid "Promote GNOME- Put a Badge on Your Website"
 msgstr "推广 GNOME- 在您的网站上放置徽章"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:494(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:454(post/title)
 msgid "Support GNOME by Shopping at Amazon!"
 msgstr "在亚马逊上购物以支持 GNOME！"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@alt)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@alt)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@alt)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@alt)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@alt)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@alt)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@alt)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@alt)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@alt)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@alt)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@alt)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@alt)
 msgid "canada"
 msgstr "加拿大"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:555(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:516(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(p/a@title)
 msgid "Amazon Germany"
 msgstr "亚马逊德国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@title)
 msgid "de"
 msgstr "德国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:539(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:500(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(p/a@title)
 msgid "Amazon France"
 msgstr "亚马逊法国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@title)
 msgid "fr"
 msgstr "法国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:547(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:508(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(p/a@title)
 msgid "Amazon Japan"
 msgstr "亚马逊日本"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@title)
 msgid "jp"
 msgstr "日本"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:531(post/title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:492(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(p/a@title)
 msgid "Amazon UK"
 msgstr "亚马逊英国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@title)
 msgid "uk"
 msgstr "英国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(p/a@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(p/a@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(p/a@title)
 msgid "Amazon US"
 msgstr "亚马逊美国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(a/img@title)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(a/img@title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(a/img@title)
 msgid "us"
 msgstr "美国"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:496(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:456(html/p)
 msgid ""
 "Select one of these Amazon Stores: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/> <_:"
 "a-5/> <_:a-6/>"
 msgstr ""
 "选择一个亚马逊商店：<_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:502(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:462(post/title)
 msgid "Other Ways to Donate"
 msgstr "其他捐助方式"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:504(html/h4)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:622(html/h4)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:464(html/h4)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:584(html/h4)
 msgid "Pay by Check"
 msgstr "支票付款"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:505(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:623(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:465(html/p)
+#| msgid ""
+#| "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
+#| "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
-"Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
+"Foundation<br/> #117<br/> 21 Orinda Way Ste. C<br/> Orinda, CA 94563<br/> USA"
 msgstr ""
-"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME Foundation<br/> PO "
-"Box 101<br/> Groton, MA 01450<br/> USA"
+"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME "
+"Foundation<br/> #117<br/> 21 Orinda Way Ste. C<br/> Orinda, CA 94563<br/> USA"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:510(html/h4)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:628(html/h4)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:471(html/h4)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:591(html/h4)
 msgid "Or by Bank Wire Transfer:"
 msgstr "或通过银行电汇："
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:511(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:629(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:472(html/p)
+#| msgid ""
+#| "Account Name: GNOME Foundation<br/> Bank Name: Citizens Bank<br/> Bank "
+#| "Address: 1 Citizens Dr., Riverside, RI 02915<br/> ABA: 011500120<br/> "
+#| "Account: 1310181397<br/> SWIFT: CTZIUS33"
+msgid ""
+"Account Name: GNOME Foundation<br/> Bank Name: Citibank<br/> Bank Address: "
+"21 Orinda Way Ste C<br/> ABA: 321171184 (from the US)<br/> Account: "
+"205317639 (from outside US)<br/> SWIFT: CITIUS33"
+msgstr ""
+"帐户名：GNOME Foundation<br/> 银行名：Citibank<br/> 银行地址：21 Orinda Way Ste C<br/> ABA: 321171184 (美国)"
+"<br/> 账户：205317639 (美国之外)<br/> SWIFT: CITIUS33"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:478(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:598(html/h2)
+msgid "Corporate Sponsorship"
+msgstr "企业赞助"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:479(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:599(p/a)
+msgid "GNOME Advisory Board"
+msgstr "GNOME 顾问委员会"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:479(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:599(html/p)
+msgid ""
+"Do you as a company want to sponsor GNOME and take a seat in the <_:a-1/>? "
+"Please contact &lt;fundraising at gnome dot org&gt;"
+msgstr ""
+"贵公司是否愿意赞助 GNOME 并成为 <_:a-1/> 的一员？请联系 &lt;fundraising at "
+"gnome dot org&gt;"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:484(post/title)
+msgid "Amazon Canada"
+msgstr "亚马逊加拿大"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:486(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:494(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:502(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:510(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:518(html/p)
+msgid ""
+"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:"
+"a-5/> <_:a-6/>"
+msgstr ""
+"选择下面一个亚马逊商店：<_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:524(post/title)
+msgid "Membership"
+msgstr "导师制"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:528(post/title)
+msgid "Become a Foundation member"
+msgstr "成为基金会一员"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:532(post/title)
+msgid "Governance"
+msgstr "管理"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:534(p/a)
+msgid "GNOME Foundation Charter"
+msgstr "GNOME 基金会宪章"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:534(p/a)
+msgid "Bylaws of the GNOME Foundation"
+msgstr "GNOME 基金会章程"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:534(p/a@title)
+msgid "GNOME Foundation Bylaws in .rst"
+msgstr ".rst 格式的 GNOME 基金会章程"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:534(p/a)
+msgid "source"
+msgstr "源码"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:534(html/p)
+msgid ""
+"The GNOME Foundation is comprised of a number of bodies – the Board of "
+"Directors, the Executive Director, the Advisory Board and the GNOME "
+"Membership. The <_:a-1/> outlines the overall purpose, structure, and "
+"process for the GNOME Foundation. The <_:a-2/> (PDF or <_:a-3/> in "
+"reStructuredText) document the policies and procedures of the Foundation as "
+"a non-profit group."
+msgstr ""
+"GNOME 基金会是由多个机构组成 - 董事会董事，执行董事，顾问委员会和 GNOME 成"
+"员。<_:a-1/> 概括了 GNOME 基金会的总体目标，结构和流程。<_:a-2/> (PDF 或 "
+"reStructuredText 格式的 <_:a-3/>)阐述了基金会作为一个非营利性团体的政策和程"
+"序。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:535(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:578(post/title)
+msgid "Reports"
+msgstr "报告"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:535(html/p)
+msgid ""
+"The GNOME Foundation also publishes <_:a-1/> on its activities each quarter "
+"and each year."
+msgstr "GNOME 基金会每个季度、每年也会发布其活动<_:a-1/>。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:537(p/a)
+msgid "foundation-list mailing list"
+msgstr "基金会邮件列表"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:537(p/a)
+msgid "Minutes wiki page"
+msgstr "简要维基页面"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:537(html/p)
+msgid ""
+"The Board of Directors meets every other week with a phone conference to "
+"discuss various topics pertaining to the regular activities of the GNOME "
+"Foundation and GNOME. The minutes to these meetings are posted publicly on "
+"the <_:a-1/> and on the <_:a-2/> for easier access."
+msgstr ""
+"董事会每两周通过电话会议沟通，讨论与 GNOME 基金会和 GNOME 日常活动相关的各种"
+"主题。这些会议记录公开发布在 <_:a-1/> 和 <_:a-2/> 上，方便大家访问。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:538(p/a)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:543(p/a)
+msgid "Foundation page"
+msgstr "基金会主页"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:538(p/a)
+msgid "history of the Board of Directors"
+msgstr "董事会历史"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:538(html/p)
+msgid ""
+"The current Board of Directors can be seen on the <_:a-1/> and the <_:a-2/"
+"> lists all directors elected in previous years."
+msgstr ""
+"可以在 <_:a-1/> 查看本届董事会成员，<_:a-2/> 列出了前些年所有当选的董事。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:539(html/h2)
+msgid "Executive Director"
+msgstr "执行董事"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:540(html/p)
+msgid ""
+"Karen Sandler serves as the GNOME Foundation’s executive director. The "
+"Executive Director is tasked with managing and growing the GNOME Foundation "
+"as an organization. Working with the Board of Directors, Advisory Board, and "
+"the GNOME Foundation members."
+msgstr ""
+"Karen Sandler 是 GNOME 基金会的执行董事。执行董事负责管理和发展 GNOME 基金会"
+"组织，与董事会，顾问委员会和 GNOME 基金会的成员沟通合作"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:541(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:542(p/a)
+msgid "Advisory Board"
+msgstr "顾问委员会"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:542(html/p)
+msgid ""
+"The <_:a-1/> is made up of organizations and companies that support GNOME. "
+"The Advisory Board has no decision-making authority but provides a vehicle "
+"for its members to communicate with the Board of Directors and help the "
+"Directors guide the overall direction of GNOME and the GNOME Foundation."
+msgstr ""
+"<_:a-1/> 是由支持 GNOME 的组织和公司组成的。顾问委员会没有决策权，但提供了其"
+"成员与董事会沟通的渠道，并帮助董事指导 GNOME 和 GNOME 基金会的总体方向。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:543(html/p)
+msgid ""
+"The Advisory Board consists of representatives from corporations and "
+"projects that are listed as sponsors at the <_:a-1/>."
+msgstr "顾问委员会由来自于 <_:a-1/> 所列出的赞助企业和项目的代表组成。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:544(p/a)
+msgid "Advisory Board wiki page"
+msgstr "顾问委员会维基页面"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:544(html/p)
+msgid ""
+"Each Advisory Board member has up to three representatives. An up-to-date "
+"list of representatives is maintained on the <_:a-1/>."
+msgstr ""
+"每个顾问委员会成员最多有三名代表。我们在 <_:a-1/> 维护了一张最新的代表名单。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:545(html/h2)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:546(p/a)
+msgid "GNOME Foundation Membership"
+msgstr "GNOME 基金会成员"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:546(html/p)
+msgid ""
+"The <_:a-1/> consists of all the contributors to the GNOME project. Members "
+"can run for election to the Board of Directors, vote in the elections for "
+"the Board of Directors, and suggest referenda."
+msgstr ""
+"<_:a-1/> 包括所有 GNOME 项目的贡献者。成员可以举行董事会选举，在选举中为董事"
+"会成员投票，和建议公民投票。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:553(html/p)
+msgid "There are several ways to contact the GNOME Foundation."
+msgstr "有多种方式可联系 GNOME 基金会。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:554(html/h3)
+msgid "Email"
+msgstr "电子邮件"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:557(li/a)
+msgid "Foundation Membership Committee"
+msgstr "基金会成员委员会"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:558(li/a)
+msgid "Foundation Elections Committee"
+msgstr "基金会选举委员会"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:560(html/h3)
+msgid "Mailing lists"
+msgstr "邮件列表"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:562(li/a)
+msgid "Foundation mailing list"
+msgstr "基金会邮件列表"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:562(li/a)
+msgid "subscription"
+msgstr "订阅"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:562(ul/li)
+msgid "<_:a-1/> (Requires <_:a-2/>)"
+msgstr "<_:a-1/> (需要 <_:a-2/>)"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:563(li/a)
+msgid "Foundation Announce mailing list"
+msgstr "基金会公告邮件列表"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:563(ul/li)
+msgid "<_:a-1/> (Posts are held for moderator’s approval)"
+msgstr "<_:a-1/> (帖子需要管理员的批准)"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:565(html/h3)
+msgid "Telephone"
+msgstr "电话"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:566(html/p)
+msgid ""
+"Voice message for the foundation board and administrators can be left at "
+"<strong>+1-617-206-3947.**</strong>"
+msgstr ""
+"您可以通过 <strong>+1-617-206-3947.**</strong> 给基金会董事会和管理人员语音留"
+"言"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:567(html/p)
+msgid ""
+"<strong>Fraudulent checks</strong> – The Foundation rarely sends out checks, "
+"and never without prior discussion with the recipient. Those checks are "
+"usually for travel or other reimbursements for GNOME contributors. If you "
+"have received a check in the mail from the GNOME Foundation that you were "
+"not already expecting, it is likely fraudulent."
+msgstr ""
+"<strong>欺诈检查</strong> – 基金会很少发出支票，且绝不在未与接收人事先讨论的"
+"情况下发出。这些支票通常为差旅费或付给 GNOME 贡献者的其他报酬。如果您意外收到"
+"了来自 GNOME 基金会的支票邮件，则很可能是欺诈。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:568(html/h3)
+msgid "Address"
+msgstr "地址"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:569(html/p)
+#| msgid "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
+msgid ""
+"GNOME Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
+msgstr ""
+"GNOME Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:582(post/title)
+msgid "Other ways to donate"
+msgstr "其他捐赠方式"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:585(html/p)
+#| msgid ""
+#| "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
+#| "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
+msgid ""
+"Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
+"Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
+msgstr ""
+"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME "
+"Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:592(html/p)
 msgid ""
 "Account Name: GNOME Foundation<br/> Bank Name: Citizens Bank<br/> Bank "
 "Address: 1 Citizens Dr., Riverside, RI 02915<br/> ABA: 011500120<br/> "
@@ -1826,278 +1945,254 @@ msgstr ""
 "Citizens Dr., Riverside, RI 02915<br/> ABA: 011500120<br/> 帐号："
 "1310181397<br/> SWIFT: CTZIUS33"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:517(html/h2)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:635(html/h2)
-msgid "Corporate Sponsorship"
-msgstr "企业赞助"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:518(p/a)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:636(p/a)
-msgid "GNOME Advisory Board"
-msgstr "GNOME 顾问委员会"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:518(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:636(html/p)
-msgid ""
-"Do you as a company want to sponsor GNOME and take a seat in the <_:a-1/>? "
-"Please contact &lt;fundraising at gnome dot org&gt;"
-msgstr ""
-"贵公司是否愿意赞助 GNOME 并成为 <_:a-1/> 的一员？请联系 &lt;fundraising at "
-"gnome dot org&gt;"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:523(post/title)
-msgid "Amazon Canada"
-msgstr "亚马逊加拿大"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:525(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:533(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:541(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:549(html/p)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:557(html/p)
-msgid ""
-"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:"
-"a-5/> <_:a-6/>"
-msgstr ""
-"选择下面一个亚马逊商店：<_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:563(post/title)
-msgid "Membership"
-msgstr "导师制"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:567(post/title)
-msgid "Become a Foundation member"
-msgstr "成为基金会一员"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:571(post/title)
-msgid "Governance"
-msgstr "管理"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:573(p/a)
-msgid "GNOME Foundation Charter"
-msgstr "GNOME 基金会宪章"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:573(p/a)
-msgid "Bylaws of the GNOME Foundation"
-msgstr "GNOME 基金会章程"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:573(p/a@title)
-msgid "GNOME Foundation Bylaws in .rst"
-msgstr ".rst 格式的 GNOME 基金会章程"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:573(p/a)
-msgid "source"
-msgstr "源码"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:573(html/p)
-msgid ""
-"The GNOME Foundation is comprised of a number of bodies – the Board of "
-"Directors, the Executive Director, the Advisory Board and the GNOME "
-"Membership. The <_:a-1/> outlines the overall purpose, structure, and "
-"process for the GNOME Foundation. The <_:a-2/> (PDF or <_:a-3/> in "
-"reStructuredText) document the policies and procedures of the Foundation as "
-"a non-profit group."
-msgstr ""
-"GNOME 基金会是由多个机构组成 - 董事会董事，执行董事，顾问委员会和 GNOME 成员。"
-"<_:a-1/> 概括了 GNOME 基金会的总体目标，结构和流程。<_:a-2/> (PDF 或 reStructuredText 格式的 <_:"
-"a-3/>)阐述了基金会作为一个非营利性团体的政策和程序。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:574(p/a)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:616(post/title)
-msgid "Reports"
-msgstr "报告"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:574(html/p)
-msgid ""
-"The GNOME Foundation also publishes <_:a-1/> on its activities each quarter "
-"and each year."
-msgstr "GNOME 基金会每个季度、每年也会发布其活动<_:a-1/>。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:576(p/a)
-msgid "foundation-list mailing list"
-msgstr "基金会邮件列表"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:576(p/a)
-msgid "Minutes wiki page"
-msgstr "简要维基页面"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:576(html/p)
-msgid ""
-"The Board of Directors meets every other week with a phone conference to "
-"discuss various topics pertaining to the regular activities of the GNOME "
-"Foundation and GNOME. The minutes to these meetings are posted publicly on "
-"the <_:a-1/> and on the <_:a-2/> for easier access."
-msgstr ""
-"董事会每两周通过电话会议沟通，讨论与 GNOME 基金会和 GNOME 日常活动相"
-"关的各种主题。这些会议记录公开发布在 <_:a-1/> 和 <_:a-2/> 上，方便大家访问"
-"。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:577(p/a)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:582(p/a)
-msgid "Foundation page"
-msgstr "基金会主页"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:577(p/a)
-msgid "history of the Board of Directors"
-msgstr "董事会历史"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:577(html/p)
-msgid ""
-"The current Board of Directors can be seen on the <_:a-1/> and the <_:a-2/"
-"> lists all directors elected in previous years."
-msgstr ""
-"可以在 <_:a-1/> 查看本届董事会成员，<_:a-2/> 列出了前些年所有当选的董事。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:578(html/h2)
-msgid "Executive Director"
-msgstr "执行董事"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:579(html/p)
-msgid ""
-"Karen Sandler serves as the GNOME Foundation’s executive director. The "
-"Executive Director is tasked with managing and growing the GNOME Foundation "
-"as an organization. Working with the Board of Directors, Advisory Board, and "
-"the GNOME Foundation members."
-msgstr ""
-"Karen Sandler 是 GNOME 基金会的执行董事。执行董事负责管理和发展 GNOME 基"
-"金会组织，与董事会，顾问委员会和 GNOME 基金会的成员沟通合作"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:580(html/h2)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:581(p/a)
-msgid "Advisory Board"
-msgstr "顾问委员会"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:581(html/p)
-msgid ""
-"The <_:a-1/> is made up of organizations and companies that support GNOME. "
-"The Advisory Board has no decision-making authority but provides a vehicle "
-"for its members to communicate with the Board of Directors and help the "
-"Directors guide the overall direction of GNOME and the GNOME Foundation."
-msgstr ""
-"<_:a-1/> 是由支持 GNOME 的组织和公司组成的。顾问委员会没有决策权，但提供了"
-"其成员与董事会沟通的渠道，并帮助董事指导 GNOME 和 GNOME 基金会的总体方向。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:582(html/p)
-msgid ""
-"The Advisory Board consists of representatives from corporations and "
-"projects that are listed as sponsors at the <_:a-1/>."
-msgstr "顾问委员会由来自于 <_:a-1/> 所列出的赞助企业和项目的代表组成。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:583(p/a)
-msgid "Advisory Board wiki page"
-msgstr "顾问委员会维基页面"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:583(html/p)
-msgid ""
-"Each Advisory Board member has up to three representatives. An up-to-date "
-"list of representatives is maintained on the <_:a-1/>."
-msgstr ""
-"每个顾问委员会成员最多有三名代表。我们在 <_:a-1/> 维护了一张最新的代表名"
-"单。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:584(html/h2)
-#: /srv/http/www.gnome.org/html/wppo/static.xml:585(p/a)
-msgid "GNOME Foundation Membership"
-msgstr "GNOME 基金会成员"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:585(html/p)
-msgid ""
-"The <_:a-1/> consists of all the contributors to the GNOME project. Members "
-"can run for election to the Board of Directors, vote in the elections for "
-"the Board of Directors, and suggest referenda."
-msgstr ""
-"<_:a-1/> 包括所有 GNOME 项目的贡献者。成员可以举行董事会选举，在选举中为董事"
-"会成员投票，和建议公民投票。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:592(html/p)
-msgid "There are several ways to contact the GNOME Foundation."
-msgstr "有多种方式可联系 GNOME 基金会。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:593(html/h3)
-msgid "Email"
-msgstr "电子邮件"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:596(li/a)
-msgid "Foundation Membership Committee"
-msgstr "基金会成员委员会"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:597(li/a)
-msgid "Foundation Elections Committee"
-msgstr "基金会选举委员会"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:599(html/h3)
-msgid "Mailing lists"
-msgstr "邮件列表"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:601(li/a)
-msgid "Foundation mailing list"
-msgstr "基金会邮件列表"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:601(li/a)
-msgid "subscription"
-msgstr "订阅"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:601(ul/li)
-msgid "<_:a-1/> (Requires <_:a-2/>)"
-msgstr "<_:a-1/> (需要 <_:a-2/>)"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:602(li/a)
-msgid "Foundation Announce mailing list"
-msgstr "基金会公告邮件列表"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:602(ul/li)
-msgid "<_:a-1/> (Posts are held for moderator’s approval)"
-msgstr "<_:a-1/> (帖子需要管理员的批准)"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:604(html/h3)
-msgid "Telephone"
-msgstr "电话"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:605(html/p)
-msgid ""
-"Voice message for the foundation board and administrators can be left at "
-"<strong>+1-617-206-3947.**</strong>"
-msgstr ""
-"您可以通过 <strong>+1-617-206-3947.**</strong> 给基金会董事会和管理人员语音留言"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:606(html/p)
-msgid ""
-"<strong>Fraudulent checks</strong> – The Foundation rarely sends out checks, "
-"and never without prior discussion with the recipient. Those checks are "
-"usually for travel or other reimbursements for GNOME contributors. If you "
-"have received a check in the mail from the GNOME Foundation that you were "
-"not already expecting, it is likely fraudulent."
-msgstr ""
-"<strong>欺诈检查</strong> – 基金会很少发出支票，且绝不在未与接收人事先讨论的"
-"情况下发出。这些支票通常为差旅费或付给 GNOME 贡献者的其他报酬。如果您意外收到了"
-"来自 GNOME 基金会的支票邮件，则很可能是欺诈。"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:607(html/h3)
-msgid "Address"
-msgstr "地址"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:608(html/p)
-msgid "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
-msgstr "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:620(post/title)
-msgid "Other ways to donate"
-msgstr "其他捐赠方式"
-
-#: /srv/http/www.gnome.org/html/wppo/static.xml:641(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:604(post/title)
 msgid "Thank You!"
 msgstr "谢谢您！"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:645(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:608(post/title)
 msgid "diegosanchez"
 msgstr "diegosanchez"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:649(post/title)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:612(post/title)
 msgid "foundationmembership"
 msgstr "GNOME 基金会成员"
 
-#: /srv/http/www.gnome.org/html/wppo/static.xml:651(html/p)
+#: /srv/http/www.gnome.org/html/wppo/static.xml:614(html/p)
 msgid "Redirect for old-broken links."
 msgstr "重定向自旧的损坏链接。"
+
+#: /srv/http/www.gnome.org/html/wppo/static.xml:619(post/title)
+#| msgid "Legal &amp; Trademarks"
+msgid "Logo &amp; Trademarks"
+msgstr "标志和商标"
+
+#~ msgid "contact"
+#~ msgstr "联系"
+
+#~ msgid ""
+#~ "If you have any questions about any of these practices or GNOME "
+#~ "Foundation’s use of your personal information, please feel free to <_:a-1/"
+#~ "> us by e-mail or by post."
+#~ msgstr ""
+#~ "如果您有任何关于这些行为或 GNOME 基金会对您个人信息使用方面的疑问，请随时"
+#~ "给 <_:a-1/> 写信或发电子邮件。"
+
+#~ msgid "<_:a-1/>Board Confidentiality Policy"
+#~ msgstr "<_:a-1/>董事会保密政策"
+
+#~ msgid ""
+#~ "Part of the Foundation’s purpose is to be a neutral, independent body "
+#~ "which organizations can use as an initial touchpoint before becoming more "
+#~ "deeply involved with The GNOME Project. Through this and other "
+#~ "activities, the members of the Board and employees and agents of the "
+#~ "Foundation shall, from time to time and in the regular course of "
+#~ "business, be made aware of confidential and sensitive information."
+#~ msgstr ""
+#~ "基金会的宗旨之一是成为一个中立，独立的机构，一个深入参与 GNOME 项目之前的"
+#~ "出发点。在基金会和其他的活动中，董事会成员、基金会员工和办事人员应该时时刻"
+#~ "刻、在日常事务中注意保护机密和敏感信息。"
+
+#~ msgid ""
+#~ "Members of the board pledge upon their election and upon the publication "
+#~ "of this addendum to keep this information confidential. Employees and "
+#~ "agents pledge upon hiring or publication of this addendum to keep this "
+#~ "information confidential, at risk of termination. Information that is "
+#~ "public knowledge or that individuals came to know through other means is "
+#~ "not covered by this provision. Confidential information must be marked "
+#~ "confidential."
+#~ msgstr ""
+#~ "董事会成员承诺从当选和出版此附录之日起，保证这些信息的机密性。员工及办事人"
+#~ "员承诺从聘用之日和或出版此附录之日起，保证这些信息的机密性，否则可能中止聘"
+#~ "用。公共知识或个人可通过其他方式得知的信息，不适用于本条款。机密信息必须注"
+#~ "明保密。"
+
+#~ msgid "<_:a-1/>Trademark Licensing"
+#~ msgstr "<_:a-1/> 商标许可证"
+
+#~ msgid "licensing@gnome.org"
+#~ msgstr "licensing@gnome.org"
+
+#~ msgid ""
+#~ "One of the functions that the GNOME Foundation provides is to act as the "
+#~ "legal owner for such GNOME project assets as the GNOME name and the GNOME "
+#~ "foot. We must protect these trademarks in order to keep them. Therefore, "
+#~ "we have some guidelines for their use and a standard agreement for user "
+#~ "groups. These cover many common situations; if you need permission to use "
+#~ "the GNOME trademarks in other ways or have other questions, please "
+#~ "contact <_:a-1/>."
+#~ msgstr ""
+#~ "GNOME 基金会的职能之一是作为 GNOME 名称及 GNOME 商标等 GNOME 项目资产的合"
+#~ "法所有者。我们必须保护这些商标以保有这些资产。因此，我们有项目使用指导和用"
+#~ "户组标准协议。它们涵盖了许多常见的情况；如果您想得到授权在其他场合使用 "
+#~ "GNOME 商标，或有其他疑问，请联系 <_:a-1/> 。"
+
+#~ msgid "The GNOME trademarks are:"
+#~ msgstr "GNOME 商标是："
+
+#~ msgid "The word GNOME™"
+#~ msgstr "单词 GNOME™"
+
+# 大脚，脚丫？哈哈，大脚更可爱些。
+#~ msgid "GNOME Foot Logo"
+#~ msgstr "GNOME 大脚标志"
+
+#~ msgid "The GNOME foot logo: <_:img-1/>"
+#~ msgstr "GNOME 大脚标志：<_:img-1/>"
+
+#~ msgid "Third-party usage guidelines"
+#~ msgstr "第三方使用指南"
+
+#~ msgid "GNOME Foundation trademark usage guidelines for third parties"
+#~ msgstr "GNOME 基金会商标第三方使用指南"
+
+#~ msgid ""
+#~ "Under the law, “fair use” of trademarks is allowed (for example, "
+#~ "trademarks typically may be used without permission in magazine and book "
+#~ "reviews). The <_:a-1/> describe what is appropriate fair use of the GNOME "
+#~ "trademarks."
+#~ msgstr ""
+#~ "根据法律规定，“正当使用(fair use)”商标是允许的(例如商标通常可以在杂志和书"
+#~ "评中使用，而无需授权)。<_:a-1/> 阐述了什么是正当合理的使用 GNOME 商标。"
+
+#~ msgid "User group license agreement"
+#~ msgstr "用户组许可协议"
+
+#~ msgid ""
+#~ "User groups are a very important part of the GNOME community. User groups "
+#~ "have a need to make use of the GNOME trademarks in such ways as creating "
+#~ "and distributing marketing materials or creating web sites. (The usage of "
+#~ "the term user group here is broad: the canonical example would be a group "
+#~ "of people using and promoting GNOME in a specific locality, but it could "
+#~ "also be a group of developers working on an open source GNOME application "
+#~ "or many similar non-commerical uses.)"
+#~ msgstr ""
+#~ "用户组是 GNOME 社区的重要组成部分。用户组需要使用 GNOME 商标来创建和分发推"
+#~ "广材料及创建网站等。(用户组这一术语在这里的使用是宽泛的：正式的组举例说应"
+#~ "是一批在特定地区使用和推广 GNOME 的人，但它也可能是一组为某个开源 GNOME 应"
+#~ "用程序工作的开发者，或许多其他类似的非商业用途的用户。)"
+
+#~ msgid "GNOME user group license agreement"
+#~ msgstr "GNOME 用户组许可协议"
+
+#~ msgid ""
+#~ "By agreeing to the <_:a-1/> a user group obtains permission to use the "
+#~ "GNOME trademarks under certain conditions."
+#~ msgstr "通过同意<_:a-1/>，用户小组将获得在特定情况下使用 GNOME 商标的许可。"
+
+#~ msgid ""
+#~ "<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-"
+#~ "weight: bold;\">Sharing Your Personal Information</span>"
+#~ msgstr ""
+#~ "<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-"
+#~ "weight: bold;\">分享您的个人信息</span>"
+
+#~ msgid ""
+#~ "Unless you assent, GNOME Foundation will never share the personal "
+#~ "information you provide to us except as described below."
+#~ msgstr ""
+#~ "未经您许可，GNOME 基金会绝不会将您提供给我们的个人信息共享，但以下描述的情"
+#~ "况除外。"
+
+#~ msgid ""
+#~ "GNOME Foundation may disclose your personal information to third parties "
+#~ "under any of the following circumstances:"
+#~ msgstr "在下列任何一种情况下，GNOME 基金会可能会透露您的个人信息给第三方："
+
+#~ msgid ""
+#~ "As may be required to fulfill orders, to conduct billing/credit card "
+#~ "processing, to provide service, and for e-mail housing (as a consequence "
+#~ "of uses already described in this Privacy Statement)."
+#~ msgstr ""
+#~ "(本隐私权声明所述条款会导致的)完成订单、计费/信用卡划卡、为客户提供服务，"
+#~ "电子邮件管理可能需要时。"
+
+#~ msgid ""
+#~ "As required by law (such as responding to a valid subpoena, warrant, "
+#~ "audit, or agency action, or to prevent fraud). Aggregated information may "
+#~ "be distributed for the purposes of characterizing the GNOME community and "
+#~ "planning future events. All personal details will be removed from such "
+#~ "aggregated information (such aggregated information is used to describe "
+#~ "our services to current and prospective partners and other third parties, "
+#~ "and is not used to contact the subjects of the report.)"
+#~ msgstr ""
+#~ "根据法律规定需要时(如答复有法律效力的传票、律令、审计，机构行为，或防止欺"
+#~ "诈)。可能会根据描述 GNOME 社区、规划未来事件需要发布汇总信息。所有个人资料"
+#~ "会从这些汇总信息中删除(汇总信息是用来描述我们对现有和潜在的合作伙伴和其他"
+#~ "第三方提供的服务，不用来联系该报告中的对象。)"
+
+#~ msgid "<_:a-1/>Pro Bono Counsel"
+#~ msgstr "<_:a-1/> 无偿法律援助"
+
+#~ msgid "Wilson Sonsini Goodrich &amp; Rosati"
+#~ msgstr "Wilson Sonsini Goodrich &amp; Rosati"
+
+#~ msgid "Software Freedom Law Center"
+#~ msgstr "软件自由法律中心"
+
+#~ msgid ""
+#~ "The GNOME Foundation thanks <_:a-1/> and the <_:a-2/> for their ongoing "
+#~ "service as pro bono counsels to the Foundation."
+#~ msgstr ""
+#~ "GNOME 基金会感谢 <_:a-1/> 和 <_:a-2/> 持续为本基金会提供无偿法律援助。"
+
+#~ msgid ""
+#~ "<_:a-1/>Employer Identification Number / Federal Tax Identification Number"
+#~ msgstr "<_:a-1/>雇主身份号码/联邦税号"
+
+#~ msgid ""
+#~ "The Employer Identification Number (EIN) of the GNOME Foundation, also "
+#~ "known as Federal Tax Identification Number, is 043572618."
+#~ msgstr "GNOME 基金会雇主身份号码(EIN)，亦称联邦税号，是 043572618。"
+
+#~ msgid "Donate today to help make GNOME safer than ever!"
+#~ msgstr "今天就捐赠，帮助 GNOME 变得更加安全！"
+
+#~ msgid ""
+#~ "GNOME was founded with the goal of promoting software freedom. We remain "
+#~ "committed to the empowerment of our users, and are always looking for "
+#~ "ways to improve our software. We want people to be safe, in control, and "
+#~ "enriched by the software they use. The GNOME community was inspired by "
+#~ "the keynote delivered by Jacob Applebaum on the topic of privacy at this "
+#~ "years’ GUADEC and was reminded of our mission. To this end, GNOME is "
+#~ "working on a new campaign focused on privacy. Through this campaign, we "
+#~ "aim to enhance GNOME 3 so that it offers one of the most secure computing "
+#~ "environments available."
+#~ msgstr ""
+#~ "GNOME 的创立目标是推广软件自由。同时，我们致力于保障用户权利，并一直在以各"
+#~ "种途径改善我们的软件。我们希望人们可以安全的使用软件，对软件有控制权，能从"
+#~ "软件中获益。。Jacob Applebaum 今年在 GUADEC 关于隐私的主题演讲鼓舞了 "
+#~ "GNOME 社区，提醒了我们的使命。为此，GNOME 正在开展关注隐私的新运动。通过这"
+#~ "次运动，我们想加强 GNOME 3，使它成为最安全的计算环境之一。"
+
+#~ msgid ""
+#~ "Proceeds from the privacy fundraising campaign will be used to fund "
+#~ "development efforts such as:"
+#~ msgstr "从隐私筹款活动所得款项将用于资助开发工作，例如："
+
+#~ msgid "application containment"
+#~ msgstr "应用权限约束"
+
+#~ msgid "enhanced disk encryption support"
+#~ msgstr "增强的磁盘加密支持"
+
+#~| msgid "More information"
+#~ msgid "Tor integration"
+#~ msgstr "Tor 集成"
+
+#~ msgid "user control over diagnostic reporting features"
+#~ msgstr "对诊断报告的用户控制功能"
+
+#~ msgid "robust VPN routing"
+#~ msgstr "健壮的 VPN 路由"
+
+#~ msgid "application integration with system-wide privacy settings"
+#~ msgstr "应用程序与系统范围的隐私设置的集成"
+
+#~ msgid "controls for how GNOME devices are identified on local networks"
+#~ msgstr "控制 GNOME 设备如何在本地网络识别"
+
+#~ msgid "anti-phishing features for Web, GNOME’s web browser"
+#~ msgstr "GNOME 网络浏览器 Web 的反钓鱼功能"
 
 #~ msgid "GNOME Journal"
 #~ msgstr "GNOME 杂志"
@@ -2445,9 +2540,6 @@ msgstr "重定向自旧的损坏链接。"
 #~ "The meetings of the Board of Directors are posted publicly on the <_:a-1/"
 #~ "> and on the <_:a-2/> page for easier access."
 #~ msgstr "董事会会议都在 <_:a-1/> 上公开并且可访问 <_:a-2/> 页面方便地查看。"
-
-#~ msgid "Legal &amp; Trademarks"
-#~ msgstr "法律 &amp; 商标"
 
 #~ msgid "Read more about Foundation’s <_:a-1/>, <_:a-2/> and <_:a-3/>."
 #~ msgstr "阅读更多关于基金会的 <_:a-1/>，<_:a-2/> 和 <_:a-3/>。"
