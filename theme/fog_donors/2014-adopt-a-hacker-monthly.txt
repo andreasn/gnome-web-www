@@ -35,6 +35,7 @@ Julien Thuillier
 Jérôme PERRET
 Kerry Chhim
 Leif Gruenwoldt
+Mahendra TALLUR
 Manish Sinha
 Marc-Andre Lureau
 Marius Gedminas
