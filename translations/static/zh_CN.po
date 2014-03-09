@@ -1,7 +1,6 @@
 # Chinese (China) translation for gnome-web-www.
 # Copyright (C) 2012 gnome-web-www's authors and contributors.
 # This file is distributed under the same license as the gnome-web-www package.
-#
 # tuhaihe <1132321739qq@gmail.com>, 2012.
 # Wylmer Wang <wantinghard@gmail.com>, 2012.
 # Sphinx Jiang <yishanj13@gmail.com>, 2013.
@@ -10,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
 "POT-Creation-Date: 2014-02-21 01:26+0000\n"
-"PO-Revision-Date: 2014-02-22 23:17+0800\n"
+"PO-Revision-Date: 2014-03-09 20:30+0800\n"
 "Last-Translator: Wylmer Wang <wantinghard@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -57,7 +56,7 @@ msgstr "导航"
 # 维持缩写，还是翻译？
 #: /srv/http/www.gnome.org/html/wppo/static.xml:15(terms/term)
 msgid "bofs"
-msgstr "非正式技术研讨会"
+msgstr "bofs"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:16(terms/term)
 msgid "conference"
@@ -65,7 +64,7 @@ msgstr "会议"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:17(terms/term)
 msgid "GUADEC"
-msgstr "GNOME 用户和开发者欧洲会议"
+msgstr "GUADEC"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:18(terms/term)
 msgid "Contributors"
@@ -402,11 +401,6 @@ msgid "Finely crafted"
 msgstr "精雕细琢"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:154(div/p)
-#| msgid ""
-#| "Every aspect of GNOME 3 has been crafted to fit together as a harmoneous "
-#| "whole, so that it offers a consistent and integrated experience. We have "
-#| "paid a huge amount of attention to detail, resulting in a smooth and "
-#| "polished product that is satisfying to use and beautiful to behold."
 msgid ""
 "Every aspect of GNOME 3 has been crafted to fit together as a harmonious "
 "whole, so that it offers a consistent and integrated experience. We have "
@@ -632,7 +626,6 @@ msgstr ""
 "使用的优秀应用程序的一些。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:227(div/img@alt)
-#| msgid "Banshee"
 msgid "Banshee logo"
 msgstr "Banshee logo"
 
@@ -650,7 +643,6 @@ msgstr ""
 "同步您的 Android，iPod 等其他设备。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:232(div/img@alt)
-#| msgid "Cheese"
 msgid "Cheese logo"
 msgstr "Cheese logo"
 
@@ -668,7 +660,6 @@ msgstr ""
 "欢乐！完成拍照和录像后，记得与他们分享哦！"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:239(div/img@alt)
-#| msgid "Inkscape"
 msgid "Inkscape logo"
 msgstr "Inkscape logo"
 
@@ -685,7 +676,6 @@ msgstr ""
 "精美的图形。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:244(div/img@alt)
-#| msgid "GIMP"
 msgid "GIMP logo"
 msgstr "GIMP logo"
 
@@ -704,7 +694,6 @@ msgstr ""
 
 # 建议与其他应用程序保持一致，不翻译。若翻译，则“扫描易”
 #: /srv/http/www.gnome.org/html/wppo/static.xml:251(div/img@alt)
-#| msgid "Simple Scan"
 msgid "Simple Scan logo"
 msgstr "Simple Scan logo"
 
@@ -724,7 +713,6 @@ msgstr ""
 "以打印扫描，将它们导出为 PDF，或保存为多种图像格式。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:256(div/img@alt)
-#| msgid "Shotwell"
 msgid "Shotwell logo"
 msgstr "Shotwell logo"
 
@@ -742,7 +730,6 @@ msgstr ""
 "照片设置为桌面背景幻灯。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:263(div/img@alt)
-#| msgid "Tomboy"
 msgid "Tomboy Logo"
 msgstr "Tomboy Logo"
 
@@ -759,7 +746,6 @@ msgstr ""
 "Tomboy 是一款便笺应用。简单易用，但足以帮助您组织思路和日常要处理的信息。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:268(div/img@alt)
-#| msgid "Rhythmbox"
 msgid "Rhythmbox logo"
 msgstr "Rhythmbox logo"
 
@@ -1438,10 +1424,10 @@ msgid ""
 "you. The current development branch is GNOME 3.3, due for release in April "
 "2012."
 msgstr ""
-"在稳定版本发布之间，GNOME 开发者在 GNOME 的<strong>开发版或“不稳定”分支</"
-"strong>上工作，开发工作很有趣，但偶尔也有实验性和不稳定的情况发生。如果您对测"
+"在稳定版本发布之间，GNOME 开发者在 GNOME 的开发版或“不稳定”分支"
+"上工作，开发工作很有趣，但偶尔也有实验性和不稳定的情况发生。如果您对测"
 "试最新特性感兴趣，或想要开发 GNOME 软件，选择这个版本。当前的开发分支是 "
-"<strong>GNOME 3.3</strong>，计划于2012年四月发布。"
+"GNOME 3.3，计划于2012年四月发布。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:427(p/a)
 msgid "GNOME 3.2 Release Planning page"
@@ -1491,8 +1477,10 @@ msgid ""
 "everyone! Your donation will help to keep the GNOME Foundation’s lights on – "
 "we’ll use it for infrastructure, hardware, and to help hackers travel to "
 "conferences where they’ll keep improving GNOME."
-msgstr "请支持 GNOME 将自由和无障碍计算带给每个人的行动！您的捐助将维持 GNOME"
-" 基金会的运作 - 我们将把资金用于基础设施、硬件和帮助开发者参加会议，以帮助他们持续改进 GNOME。"
+msgstr ""
+"请支持 GNOME 将自由和无障碍计算带给每个人的行动！您的捐助将维持 GNOME 基金会"
+"的运作 - 我们将把资金用于基础设施、硬件和帮助开发者参加会议，以帮助他们持续改"
+"进 GNOME。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:442(post/title)
 msgid "Testimonials"
@@ -1636,15 +1624,12 @@ msgid "Pay by Check"
 msgstr "支票付款"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:465(html/p)
-#| msgid ""
-#| "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
-#| "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
 "Foundation<br/> #117<br/> 21 Orinda Way Ste. C<br/> Orinda, CA 94563<br/> USA"
 msgstr ""
-"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME "
-"Foundation<br/> #117<br/> 21 Orinda Way Ste. C<br/> Orinda, CA 94563<br/> USA"
+"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME Foundation<br/> "
+"#117<br/> 21 Orinda Way Ste. C<br/> Orinda, CA 94563<br/> USA"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:471(html/h4)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:591(html/h4)
@@ -1652,17 +1637,14 @@ msgid "Or by Bank Wire Transfer:"
 msgstr "或通过银行电汇："
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:472(html/p)
-#| msgid ""
-#| "Account Name: GNOME Foundation<br/> Bank Name: Citizens Bank<br/> Bank "
-#| "Address: 1 Citizens Dr., Riverside, RI 02915<br/> ABA: 011500120<br/> "
-#| "Account: 1310181397<br/> SWIFT: CTZIUS33"
 msgid ""
 "Account Name: GNOME Foundation<br/> Bank Name: Citibank<br/> Bank Address: "
 "21 Orinda Way Ste C<br/> ABA: 321171184 (from the US)<br/> Account: "
 "205317639 (from outside US)<br/> SWIFT: CITIUS33"
 msgstr ""
-"帐户名：GNOME Foundation<br/> 银行名：Citibank<br/> 银行地址：21 Orinda Way Ste C<br/> ABA: 321171184 (美国)"
-"<br/> 账户：205317639 (美国之外)<br/> SWIFT: CITIUS33"
+"帐户名：GNOME Foundation<br/> 银行名：Citibank<br/> 银行地址：21 Orinda Way "
+"Ste C<br/> ABA: 321171184 (美国)<br/> 账户：205317639 (美国之外)<br/> SWIFT: "
+"CITIUS33"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:478(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:598(html/h2)
@@ -1749,7 +1731,7 @@ msgstr "报告"
 msgid ""
 "The GNOME Foundation also publishes <_:a-1/> on its activities each quarter "
 "and each year."
-msgstr "GNOME 基金会每个季度、每年也会发布其活动<_:a-1/>。"
+msgstr "GNOME 基金会每个季度、每年也会发布<_:a-1/>公开每个季度和每年的活动。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:537(p/a)
 msgid "foundation-list mailing list"
@@ -1914,7 +1896,6 @@ msgid "Address"
 msgstr "地址"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:569(html/p)
-#| msgid "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "GNOME Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
 msgstr ""
@@ -1925,15 +1906,12 @@ msgid "Other ways to donate"
 msgstr "其他捐赠方式"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:585(html/p)
-#| msgid ""
-#| "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
-#| "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
 "Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
 msgstr ""
-"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME "
-"Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
+"将向“GNOME Foundation, Inc.”付款的支票发送给：<br/> GNOME Foundation<br/> "
+"#117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:592(html/p)
 msgid ""
@@ -1962,7 +1940,6 @@ msgid "Redirect for old-broken links."
 msgstr "重定向自旧的损坏链接。"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:619(post/title)
-#| msgid "Legal &amp; Trademarks"
 msgid "Logo &amp; Trademarks"
 msgstr "标志和商标"
 
