@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
-"POT-Creation-Date: 2014-02-21 01:26+0000\n"
-"PO-Revision-Date: 2014-03-12 10:37-0300\n"
+"POT-Creation-Date: 2014-03-12 13:26+0000\n"
+"PO-Revision-Date: 2014-03-18 01:37-0300\n"
 "Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -162,7 +162,7 @@ msgstr "gnome.asia2013"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:42(terms/term)
 msgid "women"
-msgstr "mulheres"
+msgstr "women"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:43(terms/term)
 msgid "deltacloud"
@@ -408,11 +408,6 @@ msgid "Finely crafted"
 msgstr "Trabalhada de forma elegante"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:154(div/p)
-#| msgid ""
-#| "Every aspect of GNOME 3 has been crafted to fit together as a harmoneous "
-#| "whole, so that it offers a consistent and integrated experience. We have "
-#| "paid a huge amount of attention to detail, resulting in a smooth and "
-#| "polished product that is satisfying to use and beautiful to behold."
 msgid ""
 "Every aspect of GNOME 3 has been crafted to fit together as a harmonious "
 "whole, so that it offers a consistent and integrated experience. We have "
@@ -662,7 +657,6 @@ msgstr ""
 "ótimos aplicativos que você pode usar no GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:227(div/img@alt)
-#| msgid "Banshee"
 msgid "Banshee logo"
 msgstr "Logo do Banshee"
 
@@ -681,7 +675,6 @@ msgstr ""
 "Sincronizar seu Android, iPod e outros dispositivos."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:232(div/img@alt)
-#| msgid "Cheese"
 msgid "Cheese logo"
 msgstr "Logo do Cheese"
 
@@ -700,7 +693,6 @@ msgstr ""
 "compartilhe suas fotos e vídeos com eles!"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:239(div/img@alt)
-#| msgid "Inkscape"
 msgid "Inkscape logo"
 msgstr "Logo do Inkscape"
 
@@ -717,7 +709,6 @@ msgstr ""
 "que você produza imagens impressionantes no formato SVG padrão web."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:244(div/img@alt)
-#| msgid "GIMP"
 msgid "GIMP logo"
 msgstr "Logo do GIMP"
 
@@ -737,7 +728,6 @@ msgstr ""
 "formato de imagens."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:251(div/img@alt)
-#| msgid "Simple Scan"
 msgid "Simple Scan logo"
 msgstr "Logo do digitalizador simples"
 
@@ -758,7 +748,6 @@ msgstr ""
 "salvá-las em uma faixa de formatos de imagens."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:256(div/img@alt)
-#| msgid "Shotwell"
 msgid "Shotwell logo"
 msgstr "Logo do Shotwell"
 
@@ -777,7 +766,6 @@ msgstr ""
 "apresentação de slides no plano de fundo da área de trabalho."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:263(div/img@alt)
-#| msgid "Tomboy"
 msgid "Tomboy Logo"
 msgstr "Logo do Tomboy"
 
@@ -796,7 +784,6 @@ msgstr ""
 "dia-a-dia."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:268(div/img@alt)
-#| msgid "Rhythmbox"
 msgid "Rhythmbox logo"
 msgstr "Logo do Rhythmbox"
 
@@ -1735,9 +1722,6 @@ msgid "Pay by Check"
 msgstr "Pague com cheque"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:465(html/p)
-#| msgid ""
-#| "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
-#| "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
 "Foundation<br/> #117<br/> 21 Orinda Way Ste. C<br/> Orinda, CA 94563<br/> USA"
@@ -1752,10 +1736,6 @@ msgid "Or by Bank Wire Transfer:"
 msgstr "Ou por transferência bancária:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:472(html/p)
-#| msgid ""
-#| "Account Name: GNOME Foundation<br/> Bank Name: Citizens Bank<br/> Bank "
-#| "Address: 1 Citizens Dr., Riverside, RI 02915<br/> ABA: 011500120<br/> "
-#| "Account: 1310181397<br/> SWIFT: CTZIUS33"
 msgid ""
 "Account Name: GNOME Foundation<br/> Bank Name: Citibank<br/> Bank Address: "
 "21 Orinda Way Ste C<br/> ABA: 321171184 (from the US)<br/> Account: "
@@ -2034,7 +2014,6 @@ msgstr "Endereço"
 
 # O nome da carta tem que estar em inglês e, portanto, mantive GNOME Foundation (ao invés de traduzir para Fundação GNOME) -- Rafael Ferreira
 #: /srv/http/www.gnome.org/html/wppo/static.xml:569(html/p)
-#| msgid "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "GNOME Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
 msgstr ""
@@ -2045,9 +2024,6 @@ msgid "Other ways to donate"
 msgstr "Outras formas de doar"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:585(html/p)
-#| msgid ""
-#| "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
-#| "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
 "Foundation<br/> #117<br/> 21 Orinda Way<br/> Orinda, CA 94563<br/> USA"
@@ -2082,7 +2058,6 @@ msgid "Redirect for old-broken links."
 msgstr "Redirecionamento para links antigos e quebrados"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:619(post/title)
-#| msgid "Legal &amp; Trademarks"
 msgid "Logo &amp; Trademarks"
 msgstr "Logo &amp; marcas registradas"
 
