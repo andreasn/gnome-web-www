@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
-"POT-Creation-Date: 2013-09-23 17:11+0100\n"
+"POT-Creation-Date: 2013-09-23 17:12+0100\n"
 "PO-Revision-Date: 2014-01-30 21:12-0300\n"
 "Last-Translator: Angelo Córdova <acordinz@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"

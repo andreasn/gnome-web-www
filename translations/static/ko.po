@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-site.static.master.ko.po\n"
-"POT-Creation-Date: 2012-05-23 19:40+0000\n"
+"POT-Creation-Date: 2012-05-23 19:41+0000\n"
 "PO-Revision-Date: 2012-07-29 21:30+0900\n"
 "Last-Translator: Seong-ho Cho <darkcircle.0426@gmail.com>\n"
 "Language-Team: gnome-kr <gnome-kr@googlegroups.com>\n"
