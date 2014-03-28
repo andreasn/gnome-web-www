@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
-"POT-Creation-Date: 2014-03-17 19:50+0000\n"
-"PO-Revision-Date: 2014-03-18 01:32-0300\n"
+"POT-Creation-Date: 2014-03-17 19:49+0000\n"
+"PO-Revision-Date: 2014-03-28 01:11-0300\n"
 "Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -1827,162 +1827,162 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1040
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5949
 msgid "IMGP3306"
-msgstr ""
+msgstr "IMGP3306"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1043
 msgid "IMGP3325"
-msgstr ""
+msgstr "IMGP3325"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1046
 msgid "IMGP3345"
-msgstr ""
+msgstr "IMGP3345"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1049
 msgid "IMGP3377"
-msgstr ""
+msgstr "IMGP3377"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1052
 msgid "9414400913_9f903fe2c6_b"
-msgstr ""
+msgstr "9414400913_9f903fe2c6_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1055
 msgid "9414404499_121bc065b7_b"
-msgstr ""
+msgstr "9414404499_121bc065b7_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1058
 msgid "9414406213_bba6f867a2_b"
-msgstr ""
+msgstr "9414406213_bba6f867a2_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1061
 msgid "9414407123_9be827c303_b"
-msgstr ""
+msgstr "9414407123_9be827c303_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1064
 msgid "9414408117_a970cb1d55_b"
-msgstr ""
+msgstr "9414408117_a970cb1d55_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1067
 msgid "9414413315_5eb2bbf71e_b"
-msgstr ""
+msgstr "9414413315_5eb2bbf71e_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1070
 msgid "9414414889_8039932886_b"
-msgstr ""
+msgstr "9414414889_8039932886_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1073
 msgid "9414417401_2c9ce38426_b"
-msgstr ""
+msgstr "9414417401_2c9ce38426_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1076
 msgid "9414418753_1ff4bb2b5a_b"
-msgstr ""
+msgstr "9414418753_1ff4bb2b5a_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1079
 msgid "9414427245_38e2650e6c_b"
-msgstr ""
+msgstr "9414427245_38e2650e6c_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1082
 msgid "9414428413_a5273d91e2_b"
-msgstr ""
+msgstr "9414428413_a5273d91e2_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1085
 msgid "9414430955_d4c042f21e_b"
-msgstr ""
+msgstr "9414430955_d4c042f21e_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1088
 msgid "9414431995_94659e63bf_b"
-msgstr ""
+msgstr "9414431995_94659e63bf_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1091
 msgid "9414435399_b2bdeffd1c_b"
-msgstr ""
+msgstr "9414435399_b2bdeffd1c_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1094
 msgid "9417168374_bf60b76c19_b"
-msgstr ""
+msgstr "9417168374_bf60b76c19_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1097
 msgid "9417174914_1f53aba6d6_b"
-msgstr ""
+msgstr "9417174914_1f53aba6d6_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1100
 msgid "9417177222_18161c59d1_b"
-msgstr ""
+msgstr "9417177222_18161c59d1_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1103
 msgid "9417181396_a2aa2cd522_b"
-msgstr ""
+msgstr "9417181396_a2aa2cd522_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1106
 msgid "9417185014_21b085c067_b"
-msgstr ""
+msgstr "9417185014_21b085c067_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1109
 msgid "9417187878_059610a333_b"
-msgstr ""
+msgstr "9417187878_059610a333_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1112
 msgid "9417191146_f24f9169fe_b"
-msgstr ""
+msgstr "9417191146_f24f9169fe_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1115
 msgid "9417194998_fa03464872_b"
-msgstr ""
+msgstr "9417194998_fa03464872_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1118
 msgid "9417198534_4fd0aaf59d_b"
-msgstr ""
+msgstr "9417198534_4fd0aaf59d_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1121
 msgid "9417199798_57f1d9cbf1_b"
-msgstr ""
+msgstr "9417199798_57f1d9cbf1_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1124
 msgid "9417201760_69b5495e5f_b"
-msgstr ""
+msgstr "9417201760_69b5495e5f_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1127
 msgid "9417202748_ef58e3c4ab_b"
-msgstr ""
+msgstr "9417202748_ef58e3c4ab_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1130
 msgid "9417223226_954254639c_b"
-msgstr ""
+msgstr "9417223226_954254639c_b"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1133
 msgid "GAR2012-web"
-msgstr ""
+msgstr "GAR2012-web"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1136
@@ -2251,7 +2251,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1279
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6071
 msgid "1410959_10151843710406560_258242543_o"
-msgstr ""
+msgstr "1410959_10151843710406560_258242543_o"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1282
@@ -3854,12 +3854,12 @@ msgstr ""
 #. (itstool) path: html/h3
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1545
 msgid "Availability:"
-msgstr ""
+msgstr "Disponibilidade:"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1547
 msgid "http://developer.gnome.org/feature/current/"
-msgstr ""
+msgstr "http://developer.gnome.org/feature/current/"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1546
@@ -3867,11 +3867,13 @@ msgid ""
 "The GNOME Accessibility Framework is available now, please visit:<br/> <_:"
 "a-1/>"
 msgstr ""
+"A Framework de Acessibilidade do GNOME agora está disponível, por favor "
+"visite:<br/> <_:a-1/>"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1549
 msgid "http://projects.gnome.org/accessibility"
-msgstr ""
+msgstr "http://projects.gnome.org/accessibility"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1548
@@ -3879,36 +3881,38 @@ msgid ""
 "GNOME Accessibility project status and documentation, please visit:<br/> <_:"
 "a-1/>"
 msgstr ""
+"Status e documentação do projeto de Acessibilidade do GNOME, por favor "
+"visite:<br/> <_:a-1/>"
 
 #. (itstool) path: html/h3
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1550
 msgid "Documentation:"
-msgstr ""
+msgstr "Documentação:"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1552
 msgid "http://library.gnome.org/devel/atk/stable/"
-msgstr ""
+msgstr "http://library.gnome.org/devel/atk/stable/"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1553
 msgid "http://projects.gnome.org/accessibility/talks/GTK-impl.html"
-msgstr ""
+msgstr "http://projects.gnome.org/accessibility/talks/GTK-impl.html"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1551
 msgid "API documentation:<br/> <_:a-1/><br/> <_:a-2/>"
-msgstr ""
+msgstr "Documentação da API:<br/> <_:a-1/><br/> <_:a-2/>"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1555
 msgid "http://library.gnome.org/users/user-guide/nightly/keyboard-skills.html"
-msgstr ""
+msgstr "http://library.gnome.org/users/user-guide/nightly/keyboard-skills.html"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1554
 msgid "Keyboard navigation documentation:<br/> <_:a-1/>"
-msgstr ""
+msgstr "Documentação de navegação por teclado:<br/> <_:a-1/>"
 
 #. (itstool) path: html/h3
 #. (itstool) path: html/h2
@@ -4002,12 +4006,12 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5254
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5707
 msgid "www.gnome.org"
-msgstr ""
+msgstr "www.gnome.org"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1561
 msgid "More information on GNOME is available at <_:a-1/>"
-msgstr ""
+msgstr "Mais informação sobre GNOME está disponível em <_:a-1/>"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1566
@@ -7870,13 +7874,13 @@ msgstr ""
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2277
 msgid "<strong>More Information</strong>"
-msgstr ""
+msgstr "<strong>Mais informação</strong>"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2278
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2280
 msgid "www.gnome.org/mobile"
-msgstr ""
+msgstr "www.gnome.org/mobile"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2278
@@ -8692,17 +8696,17 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2408
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2963
 msgid "http://www.guadec.org/"
-msgstr ""
+msgstr "http://www.guadec.org/"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2409
 msgid "http://guadec.org/guadec08/public/cfp/1"
-msgstr ""
+msgstr "http://guadec.org/guadec08/public/cfp/1"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2410
 msgid "http://guadec.org/public/content/keynotes"
-msgstr ""
+msgstr "http://guadec.org/public/content/keynotes"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2408
@@ -8984,7 +8988,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2468
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2815
 msgid "board@gnome.org"
-msgstr ""
+msgstr "board@gnome.org"
 
 #. (itstool) path: p/a
 #. (itstool) path: li/a
@@ -8992,7 +8996,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2533
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2815
 msgid "kde-ev-board@kde.org"
-msgstr ""
+msgstr "kde-ev-board@kde.org"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2468
@@ -9038,13 +9042,13 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2472
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2525
 msgid "www.kde.org"
-msgstr ""
+msgstr "www.kde.org"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2472
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2525
 msgid "ev.kde.org"
-msgstr ""
+msgstr "ev.kde.org"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2472
@@ -9452,7 +9456,7 @@ msgstr ""
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2571
 msgid "http://www.grancanariadesktopsummit.org/"
-msgstr ""
+msgstr "http://www.grancanariadesktopsummit.org/"
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2576
@@ -9518,7 +9522,7 @@ msgstr ""
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2583
 msgid "http://sugarlabs.org"
-msgstr ""
+msgstr "http://sugarlabs.org"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2583
@@ -9639,7 +9643,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2621
 msgid "Jakub Pavelek, Nokia"
-msgstr ""
+msgstr "Jakub Pavelek, Nokia"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2623
@@ -9667,17 +9671,17 @@ msgstr ""
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2625
 msgid "www.grancanariadesktopsummit.org"
-msgstr ""
+msgstr "www.grancanariadesktopsummit.org"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2625
 msgid "For more information see <_:a-1/>."
-msgstr ""
+msgstr "Para mais informação veja <_:a-1/>."
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2626
 msgid "http://www.grancanariadesktopsummit.org/user/register"
-msgstr ""
+msgstr "http://www.grancanariadesktopsummit.org/user/register"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2626
@@ -9838,111 +9842,113 @@ msgstr ""
 msgid ""
 "For more information on the organizations mentioned in this press release:"
 msgstr ""
+"Para mais informações sobre as organizações mencionadas no comunicado da "
+"imprensa:"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2655
 msgid "http://www.gnome.org/foundation"
-msgstr ""
+msgstr "http://www.gnome.org/foundation"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2655
 msgid "GNOME Foundation: <_:a-1/>"
-msgstr ""
+msgstr "Fundação GNOME: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2656
 msgid "http://ev.kde.org/"
-msgstr ""
+msgstr "http://ev.kde.org/"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2656
 msgid "KDE e.V.: <_:a-1/>"
-msgstr ""
+msgstr "KDE e.V.: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2657
 msgid "http://www.grancanaria.com"
-msgstr ""
+msgstr "http://www.grancanaria.com"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2657
 msgid "Cabildo of Gran Canaria: <_:a-1/>"
-msgstr ""
+msgstr "Cabido de Grã Canária: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2658
 msgid "http://www.ulpgc.es"
-msgstr ""
+msgstr "http://www.ulpgc.es"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2658
 msgid "ULPGC: <_:a-1/>"
-msgstr ""
+msgstr "ULPGC: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2659
 msgid "http://www.osl.ull.es"
-msgstr ""
+msgstr "http://www.osl.ull.es"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2659
 msgid "ULL: <_:a-1/>"
-msgstr ""
+msgstr "ULL: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2660
 msgid "http://www.eslic.es"
-msgstr ""
+msgstr "http://www.eslic.es"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2660
 msgid "ESLIC: <_:a-1/>"
-msgstr ""
+msgstr "ESLIC: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2661
 msgid "http://www.asolif.org"
-msgstr ""
+msgstr "http://www.asolif.org"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2661
 msgid "ASOLIF: <_:a-1/>"
-msgstr ""
+msgstr "ASOLIF: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2662
 msgid "http://www.gulic.org"
-msgstr ""
+msgstr "http://www.gulic.org"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2662
 msgid "GULIC: <_:a-1/>"
-msgstr ""
+msgstr "GULIC: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2663
 msgid "http://es.gnome.org"
-msgstr ""
+msgstr "http://es.gnome.org"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2663
 msgid "GNOME Hispano: <_:a-1/>"
-msgstr ""
+msgstr "GNOME Hispano: <_:a-1/>"
 
 #. (itstool) path: li/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2664
 msgid "http://www.kde-espana.es"
-msgstr ""
+msgstr "http://www.kde-espana.es"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2664
 msgid "KDE España: <_:a-1/>"
-msgstr ""
+msgstr "KDE España: <_:a-1/>"
 
 #. (itstool) path: html/h2
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2666
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2667
@@ -27362,13 +27368,13 @@ msgstr ""
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6064
 msgid "CRIM"
-msgstr ""
+msgstr "CRIM"
 
 #. (itstool) path: p/a@title
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6064
 msgid "Savoir-faire Linux"
-msgstr ""
+msgstr "Savoir-faire Linux"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6064
@@ -27377,21 +27383,24 @@ msgid ""
 "also to <_:a-3/> for sponsoring the Sunday social event, and to <_:a-4/> for "
 "providing our hungry hackers with tea, coffee and bagels."
 msgstr ""
+"Obrigado a <_:a-1/> por hospedar o evento e <_:a-2/> pelo patrocínio. "
+"Obrigado também a <_:a-3/> para patrocínio do evento social de Domingo e a "
+"<_:a-4/> por fornecer chá, café e pão a nossos hackers esfomeados."
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6069
 msgid "WebKitGTK+ Hackfest Underway in A Coruña"
-msgstr ""
+msgstr "Hackfest WebKitGTK+ para acontecer em A Coruña"
 
 #. (itstool) path: p/a@title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6072
 msgid "WebKitGTK+ Hackfest 2013"
-msgstr ""
+msgstr "Hackfest WebKitGTK+ 2013"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6072
 msgid "WebKitGTK+ hackfest"
-msgstr ""
+msgstr "Hackfest WebKitGTK+"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6072
@@ -27400,16 +27409,19 @@ msgid ""
 "fifth year, 2013′s event is the biggest so far, including an unprecedented "
 "30 participants."
 msgstr ""
+"O <_:a-1/> anual está para acontecer em A Coruña, Espanha. Indo para o "
+"quinquagésimo ano, o evento de 2013 é o maior até hoje, incluindo um sem "
+"precedência presença de 30 participantes."
 
 #. (itstool) path: p/a@title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6073
 msgid "Claudio Saavedra - Sun 2013/Dec/08"
-msgstr ""
+msgstr "Claudio Saavedra - Dom 2013/Dez/08"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6073
 msgid "Claudio Saavedra reports"
-msgstr ""
+msgstr "Claudio Saavedra relata"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6073
@@ -27418,37 +27430,42 @@ msgid ""
 "+ developer <_:a-1/> that multiple web processes and user interface "
 "improvements to the GNOME web browser are both priorities for the hackfest."
 msgstr ""
+"O evento de quatro dias está com foco em tudo web no GNOME e GTK+. O "
+"desenvolvedor WebKitGTK+ <_:a-1/> que processos web múltiplos e melhorias de "
+"interface de usuário do navegador web do GNOME são prioridades para o "
+"hackfest."
 
 #. (itstool) path: p/a@title
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6074
 msgid "@WebKitGTK+"
-msgstr ""
+msgstr "@WebKitGTK+"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6074
 msgid "You can follow all the action on the <_:a-1/> Twitter feed."
 msgstr ""
+"Você pode acompanhar toda a ação na fonte de notícias no Twitter de <_:a-1/>."
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6075
 msgid "Samsung"
-msgstr ""
+msgstr "Samsung"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6075
 msgid "Adobe"
-msgstr ""
+msgstr "Adobe"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6075
 msgid "Company100"
-msgstr ""
+msgstr "Company100"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6075
 msgid "Cable Labs"
-msgstr ""
+msgstr "Cable Labs"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6075
@@ -27457,26 +27474,29 @@ msgid ""
 "Foundation. Other sponsors are helping with travel costs, accommodation, "
 "coffee and snacks. Many thanks to <_:a-1/>, <_:a-2/>, <_:a-3/> and <_:a-4/>."
 msgstr ""
+"O evento foi possível com o patrocínio de Igalia e da Fundação GNOME. Outros "
+"patrocinadores que estão nos ajudando com custos de viagem, acomodação, café "
+"e lanches. Muito obrigado a <_:a-1/>, <_:a-2/>, <_:a-3/> e <_:a-4/>."
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6081
 msgid "GNOME Documentation Hackfest Concludes in Norwich, UK"
-msgstr ""
+msgstr "Hackfest de documentação do GNOME concluída em Norwich, UK"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6083
 msgid "five day hackfest"
-msgstr ""
+msgstr "cinco dias de hackfest"
 
 #. (itstool) path: p/a@title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6083
 msgid "School of Computer Science, UEA"
-msgstr ""
+msgstr "Escola de Ciência da Computação, UEA"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6083
 msgid "University of East Anglia’s School of Computer Science"
-msgstr ""
+msgstr "Escola de Ciência da Computação da Universidade da Ânglia Oriental"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6083
@@ -27486,11 +27506,15 @@ msgid ""
 "The hackfest was very successful, and included fifteen attendees as well as "
 "five remote participants."
 msgstr ""
+"A equipe de documentação do GNOME se encontrou em Norwich, UK, essa semana "
+"por <_:a-1/>. Ocorrida de 26 a 30 de Janeiro, o evento ocorreu na <_:a-2/>. "
+"O hackfest teve muito sucesso e incluiu quinze participantes assim como "
+"cinco participantes remotos."
 
 #. (itstool) path: p/img@alt
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6084
 msgid "Docs Hackfest 2014. Picture by Frederic Peters"
-msgstr ""
+msgstr "Hackfest de Documentação 2014. Imagem por Frederic Peters"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6084
@@ -27498,6 +27522,8 @@ msgid ""
 "[caption id=\"\" align=\"aligncenter\" width=\"323\"]<_:img-1/> Docs "
 "Hackfest 2014. Picture by Frederic Peters[/caption]"
 msgstr ""
+"[caption id=\"\" align=\"aligncenter\" width=\"323\"]<_:img-1/> Hackfest de "
+"Documentação 2014. Imagem por Frederic Peters[/caption]"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6085
@@ -27506,16 +27532,21 @@ msgid ""
 "documentation for the upcoming 3.12 release. Other highlights of the "
 "hackfest included:"
 msgstr ""
+"A equipe usou o evento como uma oportunidade de preparar a documentação de "
+"usuário do GNOME para o lançamento 3.12. Outros destaques do hackfest "
+"incluem:"
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6087
 msgid "A new, easy and more visual appealing design for the help viewer Yelp."
 msgstr ""
+"Um novo, fácil e visualmente mais atraente design para o visualizador de "
+"ajuda Yelp."
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6088
 msgid "A major update of the long awaited GNOME Administrator Guide."
-msgstr ""
+msgstr "Uma grande atualização do tão esperado Guia de administrador do GNOME."
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6089
@@ -27523,6 +27554,8 @@ msgid ""
 "An improved and updated organization of the documentation of the email "
 "client Evolution."
 msgstr ""
+"Uma organização melhorada e atualizada da documentação do cliente de e-mail "
+"Evolution."
 
 #. (itstool) path: ul/li
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6090
@@ -27530,16 +27563,18 @@ msgid ""
 "New features in Mallard, the markup language used for writing the GNOME "
 "documentation, and the related tools."
 msgstr ""
+"Novos recursos em Mallard, a linguagem markup usada para escrever a "
+"documentação do GNOME e as ferramentas relacionadas."
 
 #. (itstool) path: p/a@title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6092
 msgid "University od East Anglia"
-msgstr ""
+msgstr "Universidade da Ânglia Oriental"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6092
 msgid "University of East Anglia"
-msgstr ""
+msgstr "Universidade da Ânglia Oriental"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6092
@@ -27547,16 +27582,18 @@ msgid ""
 "The event was made possible by the sponsorship of the GNOME Foundation. Many "
 "thanks to the <_:a-1/> for providing such a great venue."
 msgstr ""
+"O evento foi possível graças ao patrocínio da Fundação GNOME. Muito obrigado "
+"à <_:a-1/> por fornecer um ótimo lugar."
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6093
 msgid "stand"
-msgstr ""
+msgstr "stand"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6093
 msgid "party on the Saturday night"
-msgstr ""
+msgstr "festa no sábado à noite"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6093
@@ -27565,6 +27602,9 @@ msgid ""
 "attend this year’s FOSDEM conference in Brussels this weekend. GNOME will "
 "have a <_:a-1/> at the event, and there will be a <_:a-2/>."
 msgstr ""
+"Participantes do hackfest vão, junto com muitos outros contribuidores do "
+"GNOME, participar da conferência FOSDEM deste ano em Bruxela esta semana. "
+"GNOME terá um <_:a-1/> no evento e haverá uma <_:a-2/>."
 
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6098
@@ -27811,7 +27851,7 @@ msgstr "Concurso de Camisa do GNOME.Asia Summit 2014"
 #. (itstool) path: post/title
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6163
 msgid "Time to apply for OPW and GSoC"
-msgstr ""
+msgstr "Hora se candidatar para OPW e GSoC"
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6171
@@ -27820,6 +27860,9 @@ msgid ""
 "applications are open for Google Summer of Code (GSoC) and Outreach Program "
 "for Women."
 msgstr ""
+"Com o versão chegando, a Fundação GNOME com muito prazer anuncia que "
+"aplicações estão abertas para Google Summer of Code (GSoC) e Outreach "
+"Program for Women."
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6173
@@ -27831,6 +27874,12 @@ msgid ""
 "with accepted participants during the course of the internship and "
 "application process."
 msgstr ""
+"Outreach Program for Women oferece um estipêndio de $5500 por um trabalho de "
+"estágio de quatro meses com uma organização de código aberto/livre. O "
+"programa aceita propostas não apenas para projetos de codificação, mas "
+"também para projetos de documentação, design e marketing. Cada organização "
+"tem mentores para guiar e trabalhar com participantes aceitos durante o "
+"curso do estágio e processo de aplicação."
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6174
@@ -27838,6 +27887,8 @@ msgid ""
 "As part of the application process, applicants must contribute to the "
 "project they indents to work on during the internship."
 msgstr ""
+"Como parte do processo de aplicação, candidatos devem contribuir para o "
+"projeto que eles tem a intenção de trabalhar durante o estágio."
 
 #. (itstool) path: blockquote/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6175
@@ -27848,11 +27899,16 @@ msgid ""
 "of FOSS and computer science”<br/> -Meg Ford former Outreach Program for "
 "Women intern"
 msgstr ""
+"“Participando da comunidade GNOME como um estagiário me permitiu ganhar um "
+"entendimento das tecnologias usadas para desenvolvimento e a estrutura das "
+"equipes de código aberto/livre. Essas habilidades ajudaram a enriquecer meu "
+"entendimento de FOSS e ciência da computação”<br/> - Meg Ford, ex-estagiária "
+"do Outreach Program for Women"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6177
 msgid "Outreach Program for Women website"
-msgstr ""
+msgstr "site do Outreach Program for Women"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6177
@@ -27861,7 +27917,6 @@ msgstr "wiki"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6177
-#| msgid "Translations"
 msgid "application"
 msgstr "aplicação"
 
@@ -27872,6 +27927,9 @@ msgid ""
 "to check our <_:a-2/> where project ideas are listed. The <_:a-3/> deadline "
 "for this round of the program is March 19."
 msgstr ""
+"A comunidade GNOME incentiva qualquer interessado a visitar o <_:a-1/> e "
+"olhar nosso <_:a-2/>, onde ideias de projetos estão listados. O prazo de "
+"entrega <_:a-3/> para esse turno do programa é 19 de Março."
 
 #. (itstool) path: html/p
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6179
@@ -27881,6 +27939,10 @@ msgid ""
 "for students to work on Free/Open Source projects along with a mentor from "
 "the community."
 msgstr ""
+"Google Summer of Code (GSoC) é um programa d estágio patrocinado pela "
+"Google. Assim como o Outreach Program for Women, GSoC oferece uma bolsa de "
+"$5500 para estudantes para trabalhar em projetos de código aberto/livre "
+"junto com um mentor da comunidade."
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:6180
