@@ -216,12 +216,12 @@ if (array_key_exists('submit', $_POST)) {
 				When choosing a @gnome.org alias, please, check our 
 				<a href="https://wiki.gnome.org/AccountNamePolicy">account name policy</a>. 
                 Your @gnome alias will point to the e-mail you specified above as your permanent e-mail address. If you do
-                own a GNOME Git Account, make sure the username is the one you use for your read, write access to git.gnome.org.
+                own a GNOME Git Account, make sure the choosen username is the one you use for your read, write access to git.gnome.org.
                             </p>						
 
 						<div class="item benefits">
                             <input name="gnome_mail_alias" id="gnome_mail_alias" type="checkbox" onClick="toggleBenefitsFields()" /> @gnome.org mail alias
-							<input name="gnome_username" id="gnome_username" type="text" placeholder="What do you want your alias to be?" disabled />
+							<input name="gnome_username" id="gnome_username" type="text" placeholder="What do you want your username to be?" disabled />
                         </div>
                         
 						<div class="item benefits">
