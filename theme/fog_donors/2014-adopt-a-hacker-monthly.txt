@@ -1,5 +1,6 @@
  
 ukasz Jerna
+Aaron Honeycutt
 Alan Morgan
 Alessandro Mecca
 Andreas Nilsson
@@ -42,6 +43,7 @@ Marius Gedminas
 Mathias Nicolajsen Kjaergaard
 Matteo Settenvini
 Matthew Lee
+Michael Belle
 Mikel Olasagasti Uranga
 Pedro de Medeiros
 Petr Volkov
