@@ -1,20 +1,20 @@
 #
-# Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012, 2013, 2014.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2012, 2013, 2014.
+# Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012, 2013, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
-"POT-Creation-Date: 2014-03-17 19:49+0000\n"
-"PO-Revision-Date: 2014-03-24 10:25+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"POT-Creation-Date: 2014-03-25 14:02+0000\n"
+"PO-Revision-Date: 2014-04-12 12:43-0500\n"
+"Last-Translator: Milagros Alessandra Infante Montero <maim92@gmail.com>\n"
+"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Gtranslator 2.91.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.6\n"
 
 #. (itstool) path: bloginfo/name
 #: /srv/http/www.gnome.org/html/wppo/static.xml:4
@@ -590,7 +590,7 @@ msgstr "Empezar a escribir documentación"
 
 #. (itstool) path: p/a
 #: /srv/http/www.gnome.org/html/wppo/static.xml:182
-msgid "Get involved in the marketing team"
+msgid "Get involved in the engagement team"
 msgstr "Involucrarse en el equipo de marketing"
 
 #. (itstool) path: div/h3
