@@ -1,12 +1,114 @@
+Albert Vernon
+Andrea Brugiolo
+Andrew Starr-Bochicchio
+Apostolos Apostolidis
+Ariel Rojas
+Bart Snapp
+Bastien Nocera
+Benedict Etzel
+Benoit Puel
+Bernd Szmolik
+Bert Vanderbauwhede
+Bertrand Rousseau
+Boudewijn Rempt
 Bradley Clemetson
+Brian Pitts
+Carlos Izquierdo
 Chani Roy
+Chris Thomas
+Christopher Aniszczyk
+Christopher Webber
 Clemens Vermeulen
+Cory Bannister
+Craig Minihan
+DJ van Enckevort
+Dave Hng
+David M Steinberg
+David Norman
+David Thomson
+David Welch
+Dimitrios Touloumis
+Donald Clifton
+Eero T Volotinen
 Elad Alfassa
+Emmanuele Bassi
+Erik Ritter
+Fabio Gullo
+Florian Bäuerle
 Frank Maillard
+Fredrik Ekelund
+Gary D Walborn
+Gerhard Gruber
+Guillaume Tisserant
+Guillermo Gutiérrez
+JAVIER MONTEAGUDO ABELLEIRA
+JOSE SANCHEZ MESEGUE
+James Campbell
+Jan Slesinger
+Jan-Michael Brummer
+Jean-Noël Rouchon
+Jeff Waugh
+Joakim Söderlund
+John Leach
+John Tevik
+Joonas Sarajärvi
+Joseph Harrison
 José María Martín Sáez de Parayuelo
+Jules Kerssemakers
+Julie Pichon
+Julien Nguyen
+Jussi Kukkonen
+Kimberley Nedic
+Lars Ove Høines
+Logan Travis
+Luca Penasa
 Manfred Hofbauer
+Marcus Ilgner
 Margaret Timothy
+Mario Sanchez Prada
+Mark Tinberg
+Markus Näsman
+Micha Bartoszkiewicz
+Michael Kers
+Michael Moser
+Michael Waters
 Michel Machado
+Michel Salim
+Mr W J Thompson
+Nasser Alshammari
+Nirbheek Chauhan
+Olav Vitters
+Pascal de Bruijn
+Patrick Hogan
+Paul Thompson
+Peter Ralph
+Petr Jasek
+Philip Gillißen
+Philipp Bielefeldt
+Philipp Hausmann
+Renzo Verzaro
+Riccardo Cossu
+Robert Ford
+Robert Fulton
 Romain Villeneuve
+Sam Thursfield
+Sander Hollebrand
+Sean Kelley
+Sergio Cordeiro
+Silvan Jegen
+Solomon Peachy
+Stefano Santoro
+Sven Herrmann
 Sy Jin Cheah
+Te Hin Teoh
+Thomas Eimers
+Tino Mehlmann
+Tom Marble
 Victor Jaquez
+Wayne Gray
+William Lachance
+Wolfram Priess
+Zongyuan He
+david strickland
+jorge castro
+ronald baechle
