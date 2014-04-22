@@ -3,13 +3,18 @@
 Aaron Honeycutt
 Alan Morgan
 Alessandro Mecca
+Allan Day
+Allan Fields
 Andreas Nilsson
+Andrew Murdoch
 Andrew Rabon
 Andrey Ivanov
 Behdad Esfahbod
 Benjamin Lebsanft
 Blaise Alleyne
+Blane Warrene
 Bowie Poag
+Brian Campbell
 Carlos Antonio Marquês Maniero
 Carsten Olsen
 Christian Meißner
@@ -19,10 +24,17 @@ Craig Keogh
 Daniel Aleksandersen
 Daniel Doel
 Daniel Thompson
+David Gould
 Denis Andrade
 Dillon Gilmore
+Dylan Scinicariello
 Edward Jakus
+Felipe Franco
 Gregory Wellington
+Gustavo Noronha
+Hannes Ovrén
+Hashem Nasarat
+Igor Mega
 James Campbell
 Jan Girlich
 Jan Leike
@@ -31,6 +43,7 @@ Jerome PERRET
 Jorge Gallegos
 Jose Maria Casanova Crespo
 Jose Miguel Dana Perez
+José Andrés Jurado Vadillo
 José Emanuel Dávila Alanís
 Juan Jose Marin Martinez
 Julie Pichon
@@ -41,17 +54,23 @@ Leif Gruenwoldt
 Mahendra TALLUR
 Manish Sinha
 Marc-Andre Lureau
+Marcelo Soares Souza
 Marius Gedminas
+Mark Wielaard
 Mathias Nicolajsen Kjaergaard
 Matteo Settenvini
 Matthew Lee
 Michael Belle
+Michael Van der Weg
 Mikel Olasagasti Uranga
+OLIVER VON B KUSTER
 Pascal Garber
 Pedro de Medeiros
+Perfumo Christian
 Petr Volkov
 Petter Johansson
 Philippe Gauthier
+Pierre Langlois
 Prabowo Saputro
 RUI GOUVEIA
 Reuben Tracey
@@ -60,10 +79,14 @@ Robert McCallum
 Robin Stocker
 Roxana Murgan León
 Russell Sim
+Samuel El-Borai
 Scott Mcdonald
 Stefan Lehmann
+Steve Philipp
+Steven J Drinnan
 Stéphane Démurget
 Susan Roelofs
 Thomas Jenkins
 Zwahlen Joël
+bastiaan van der veer
 patrizio bruno
