@@ -307,7 +307,6 @@ function print_form_head($form_name, $product_name) {
                         <?php
                         $hackerList = array(
                                 0 => array('name' => 'Emmanuele Bassi'),
-                                1 => array('name' => 'Brian Cameron'),
                                 2 => array('name' => 'Diego Escalante Urrelo'),
                                 3 => array('name' => 'Behdad Esfahbod'),
                                 4 => array('name' => 'Andre Klapper'),
@@ -316,8 +315,6 @@ function print_form_head($form_name, $product_name) {
                                 7 => array('name' => 'Andreas Nilsson'),
                                 8 => array('name' => 'Tobias Mueller'),
                                 9 => array('name' => 'Frederic Peters'),
-                               10 => array('name' => 'Stormy Peters'),
-                               11 => array('name' => 'Lucas Rocha'),
                                12 => array('name' => 'Vincent Untz'),
                                13 => array('name' => 'Luis Villa', 'shortName' => 'http://wiki.gnome.org/LuisVilla4'),
                                14 => array('name' => 'Karen Sandler'),
