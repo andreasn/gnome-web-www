@@ -1,5 +1,6 @@
 Albert Vernon
 Andrea Brugiolo
+Andreas Nilsson
 Andrew Starr-Bochicchio
 Apostolos Apostolidis
 Ariel Rojas
@@ -32,6 +33,7 @@ Donald Clifton
 Eero T Volotinen
 Elad Alfassa
 Emmanuele Bassi
+Enrico Bastelli
 Erik Ritter
 Fabio Gullo
 Florian Bäuerle
@@ -78,8 +80,10 @@ Mr W J Thompson
 Nasser Alshammari
 Nirbheek Chauhan
 Olav Vitters
+PAUL LA MAR
 Pascal de Bruijn
 Patrick Hogan
+Paul Cutler
 Paul Thompson
 Peter Ralph
 Petr Jasek
@@ -88,6 +92,7 @@ Philipp Bielefeldt
 Philipp Hausmann
 Renzo Verzaro
 Riccardo Cossu
+Ritchie Wilson
 Robert Ford
 Robert Fulton
 Romain Villeneuve
@@ -100,6 +105,7 @@ Solomon Peachy
 Stefano Santoro
 Sven Herrmann
 Sy Jin Cheah
+Syohei Yoshida
 Te Hin Teoh
 Thomas Eimers
 Tino Mehlmann
