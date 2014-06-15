@@ -61,6 +61,7 @@ Mathias Nicolajsen Kjaergaard
 Matteo Settenvini
 Matthew Lee
 Michael Belle
+Michael Green
 Michael Van der Weg
 Mikel Olasagasti Uranga
 OLIVER VON B KUSTER
@@ -87,6 +88,7 @@ Steven J Drinnan
 Stéphane Démurget
 Susan Roelofs
 Thomas Jenkins
+Zeeshan Ali
 Zwahlen Joël
 bastiaan van der veer
 patrizio bruno
