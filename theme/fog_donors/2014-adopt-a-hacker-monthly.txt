@@ -16,6 +16,7 @@ Blane Warrene
 Bowie Poag
 Brian Campbell
 Carlos Antonio Marquês Maniero
+Carlos Sanchez
 Carsten Olsen
 Christian Meißner
 Christopher Meiklejohn
@@ -29,6 +30,7 @@ Denis Andrade
 Dillon Gilmore
 Dylan Scinicariello
 Edward Jakus
+Elad Alfassa
 Felipe Franco
 Gregory Wellington
 Gustavo Noronha
@@ -51,8 +53,10 @@ Julien Thuillier
 Jérôme PERRET
 Kerry Chhim
 Leif Gruenwoldt
+Luiz Paulo Colombiano
 Mahendra TALLUR
 Manish Sinha
+Marc Thomas
 Marc-Andre Lureau
 Marcelo Soares Souza
 Marius Gedminas
@@ -91,4 +95,6 @@ Thomas Jenkins
 Zeeshan Ali
 Zwahlen Joël
 bastiaan van der veer
+eric brinsfield
+pamela nasarat
 patrizio bruno
