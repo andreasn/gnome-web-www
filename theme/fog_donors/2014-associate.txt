@@ -2,6 +2,7 @@ Albert Vernon
 Andrea Brugiolo
 Andreas Nilsson
 Andrew Starr-Bochicchio
+André Klausnitzer
 Apostolos Apostolidis
 Ariel Rojas
 Bart Snapp
@@ -11,6 +12,7 @@ Benoit Puel
 Bernd Szmolik
 Bert Vanderbauwhede
 Bertrand Rousseau
+Bjoern Michaelsen
 Boudewijn Rempt
 Bradley Clemetson
 Brian Pitts
@@ -28,10 +30,14 @@ David M Steinberg
 David Norman
 David Thomson
 David Welch
+Dimitrios Christidis
 Dimitrios Touloumis
 Donald Clifton
+EFSTATHIOS IOSIFIDIS
+Edgar Hill
 Eero T Volotinen
 Elad Alfassa
+Elias Junior
 Emmanuele Bassi
 Enrico Bastelli
 Erik Ritter
@@ -39,10 +45,13 @@ Fabio Gullo
 Florian Bäuerle
 Frank Maillard
 Fredrik Ekelund
+Gabriel Diosan
 Gary D Walborn
 Gerhard Gruber
+Guillaume Libersat
 Guillaume Tisserant
 Guillermo Gutiérrez
+Ian Wylie
 JAVIER MONTEAGUDO ABELLEIRA
 JOSE SANCHEZ MESEGUE
 James Campbell
@@ -60,22 +69,26 @@ Jules Kerssemakers
 Julie Pichon
 Julien Nguyen
 Jussi Kukkonen
+Kerim BASOL
 Kimberley Nedic
 Lars Ove Høines
 Logan Travis
 Luca Penasa
 Manfred Hofbauer
+Manuel Dejonghe
 Marcus Ilgner
 Margaret Timothy
 Mario Sanchez Prada
 Mark Tinberg
 Markus Näsman
+Martin Ansdell-Smith
 Micha Bartoszkiewicz
 Michael Kers
 Michael Moser
 Michael Waters
 Michel Machado
 Michel Salim
+Miguel Lorenzo Amarelle
 Mr W J Thompson
 Nasser Alshammari
 Nirbheek Chauhan
@@ -83,6 +96,7 @@ Olav Vitters
 PAUL LA MAR
 Pascal de Bruijn
 Patrick Hogan
+Paul Coleman
 Paul Cutler
 Paul Thompson
 Peter Ralph
@@ -90,12 +104,16 @@ Petr Jasek
 Philip Gillißen
 Philipp Bielefeldt
 Philipp Hausmann
+Radoslaw Scheibinger
 Renzo Verzaro
 Riccardo Cossu
+Risto Jarvinen
 Ritchie Wilson
 Robert Ford
 Robert Fulton
+Robert Scott
 Romain Villeneuve
+Romuald TISSERAND
 Sam Thursfield
 Sander Hollebrand
 Sean Kelley
@@ -108,6 +126,7 @@ Sy Jin Cheah
 Syohei Yoshida
 Te Hin Teoh
 Thomas Eimers
+Timothy Cota
 Tino Mehlmann
 Tom Marble
 Victor Jaquez
