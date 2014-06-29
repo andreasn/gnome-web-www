@@ -22,6 +22,7 @@ Christian Meißner
 Christopher Meiklejohn
 Clemens Zeitlhofer
 Craig Keogh
+Dan Scott
 Daniel Aleksandersen
 Daniel Doel
 Daniel Thompson
