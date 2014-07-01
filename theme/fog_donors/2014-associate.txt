@@ -20,6 +20,7 @@ Carlos Izquierdo
 Chani Roy
 Chris Thomas
 Christopher Aniszczyk
+Christopher Brazill
 Christopher Webber
 Clemens Vermeulen
 Cory Bannister
@@ -121,6 +122,7 @@ Sergio Cordeiro
 Silvan Jegen
 Solomon Peachy
 Stefano Santoro
+Sumit Bhardwaj
 Sven Herrmann
 Sy Jin Cheah
 Syohei Yoshida
