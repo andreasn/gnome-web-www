@@ -25,6 +25,7 @@ Christopher Webber
 Clemens Vermeulen
 Cory Bannister
 Craig Minihan
+Cédric Heintz
 DJ van Enckevort
 Dave Hng
 David M Steinberg
@@ -137,6 +138,7 @@ Wayne Gray
 William Lachance
 Wolfram Priess
 Zongyuan He
+curzio bossi
 david strickland
 jorge castro
 ronald baechle
