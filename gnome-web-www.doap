@@ -6,6 +6,7 @@
 
   <name xml:lang="en">gnome-web-www</name>
   <shortdesc xml:lang="en">Website theme and translation strings for www.gnome.org</shortdesc>
+  <category rdf:resource="http://api.gnome.org/doap-extensions#infrastructure" />
   <description>This repository contains the WordPress template files used in
     main gnome.org website, together with its content translations (which works
     trough wppo plugin, located in gnome-web-wppo repository).
