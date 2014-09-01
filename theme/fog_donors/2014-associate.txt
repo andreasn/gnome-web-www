@@ -46,6 +46,7 @@ Emmanuele Bassi
 Enrico Bastelli
 Erik Ritter
 Fabio Gullo
+Fabio Moriondo
 Florian Bäuerle
 Frank Maillard
 Fredrik Ekelund
