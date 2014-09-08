@@ -58,6 +58,7 @@ Guillaume Libersat
 Guillaume Tisserant
 Guillermo Gutiérrez
 Ian Wylie
+Ikey Doherty
 JAVIER MONTEAGUDO ABELLEIRA
 JOSE SANCHEZ MESEGUE
 James Campbell
@@ -89,7 +90,6 @@ Mark Tinberg
 Markus Näsman
 Martin Ansdell-Smith
 Micha Bartoszkiewicz
-Michael Doherty
 Michael Kers
 Michael Moser
 Michael Waters
@@ -143,6 +143,7 @@ Victor Jaquez
 Wayne Gray
 William Lachance
 Wolfram Priess
+Young-Ho Cha
 Zongyuan He
 curzio bossi
 david strickland
