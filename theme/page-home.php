@@ -23,7 +23,7 @@ require_once("header.php"); ?>
     <div class="crafted_content">
         <div class="section image-left">
             <div class="image">
-                <a href="/wp-content/uploads/2010/09/window-selection-3.12.png"><img src="/wp-content/uploads/2010/09/window-selection-3.12-420x236.png" alt=""></a>
+                <a href="http://www.gnome.org/wp-content/uploads/2014/09/activities-overview1.png"><img src="http://www.gnome.org/wp-content/uploads/2014/09/activities-overview-420x262.png" alt=""></a>
             </div>
             <div class="text">
                 <h3>GNOME 3: Ease, comfort and control</h3>
