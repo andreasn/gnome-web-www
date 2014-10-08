@@ -3,7 +3,7 @@
 
 if (false === ($members = get_transient('foundation_members_list'))) {
 
-    $members_url = "https://www.gnome.org/membership/members-list.php?format=json";
+    $members_url = "http://webapps.gnome.org/foundation/membershiplist";
 
     $members = json_decode(file_get_contents($members_url));
     
@@ -31,10 +31,8 @@ require_once("header.php"); ?>
                 
                 if (isset($members)) {
                   echo '<ul class="foundation_members_list">'."\n";
-                  $antispam = array(".", "@");
                   foreach ($members as $member) {
-                      $email = str_replace($antispam, " ", $member->email);
-                      echo "    <li title=\"&lt;" . $email . "&gt; / " . "Last Renewed on " . $member->last_renewed_on . "\">" . $member->firstname . " " . $member->lastname . "</li>\n";
+                      echo "    <li title=\"&lt;" . $member->common_name . " " "</li>\n";
                   }
                   echo '</ul>'."\n";
                 }
