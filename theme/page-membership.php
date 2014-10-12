@@ -1,16 +1,7 @@
 <?php
-
-
-if (false === ($members = get_transient('foundation_members_list'))) {
-
     $members_url = "https://foundation.gnome.org/membership/membershiplist";
 
     $members = json_decode(file_get_contents($members_url));
-
-    // keeps a 12-hour cache until another HTTP request
-    // to get the members list
-    set_transient('foundation_members_list', $members, 60*60*12);
-
 }
 
 require_once("header.php"); ?>
