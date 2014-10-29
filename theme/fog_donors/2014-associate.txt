@@ -60,6 +60,7 @@ Guilherme Gonçalves Guerchmann
 Guillaume Libersat
 Guillaume Tisserant
 Guillermo Gutiérrez
+Géza Búza
 Ian Wylie
 Ikey Doherty
 JAVIER MONTEAGUDO ABELLEIRA
@@ -141,6 +142,7 @@ Sy Jin Cheah
 Syohei Yoshida
 Te Hin Teoh
 Thomas Eimers
+Thomas Heidrich
 Timothy Cota
 Tino Mehlmann
 Tom Marble
@@ -154,4 +156,5 @@ curzio bossi
 david strickland
 igor unanua
 jorge castro
+kyle schattler
 ronald baechle
