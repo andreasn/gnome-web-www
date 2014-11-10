@@ -1,0 +1,67 @@
+.header {
+  background-color: #f57900;
+  background-image: url('../images/header-background.png');
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  font-family: Cantarell,"Droid Sans",Ubuntu,"DejaVu Sans",Arial,sans-serif;
+}
+
+.header h1 {
+  font-size: 42px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.paragraphs {
+  margin-top: 30px;
+}
+
+.paragraphs p {
+  line-height: 1.6;
+}
+
+quote {
+  font-style: italic;
+  color: gray;
+}
+
+.paragraphs h4 {
+  margin-top: 30px;
+}
+
+.donate-button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #4e9a06;
+  border: none;
+}
+
+.donate-button:hover {
+  background: #5cb307;
+}
+
+.spread-the-word {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer-art {
+  background: url('../images/birdnflags.png') no-repeat;
+  height: 200px;
+}
+
+.footer-grass {
+  background: url('../images/grass.png') repeat-x;
+  height: 39px;
+  margin-top: -39px;
+}
+
+.footer {
+  background: #d3d7cf;
+  text-align: center;
+  min-height: 200px;
+  padding: 20px;
+}
