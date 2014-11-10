@@ -34,14 +34,17 @@ quote {
   color: #fff;
 }
 
+.donate-share-container {
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
 .donate-button {
-  display: block;
-  margin: auto;
-  margin-top: 20px;
-  width: 200px;
-  padding: 10px 20px;
+  padding: 0.75em 2em;
   background: #4e9a06;
   border: none;
+  font-weight: bold;
 }
 
 .donate-button:hover {
@@ -49,9 +52,7 @@ quote {
 }
 
 .spread-the-word {
-  text-align: center;
-  padding-top: 1.5em;
-  padding-bottom: 1.5em;
+  margin-top: 1.5em;
 }
 
 .footer-art {
