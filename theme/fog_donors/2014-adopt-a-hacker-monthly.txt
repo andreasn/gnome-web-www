@@ -6,6 +6,7 @@ Alessandro Mecca
 Allan Day
 Allan Fields
 Andreas Nilsson
+Andrei Petcu
 Andrew Murdoch
 Andrew Rabon
 Andrey Ivanov
@@ -15,6 +16,7 @@ Blaise Alleyne
 Blane Warrene
 Bowie Poag
 Brian Campbell
+Bryan Freeman
 Carlos Antonio Marquês Maniero
 Carlos Sanchez
 Carsten Olsen
@@ -22,6 +24,7 @@ Christian Meißner
 Christopher Meiklejohn
 Clemens Zeitlhofer
 Craig Keogh
+Daishan Tan
 Dan Scott
 Daniel Aleksandersen
 Daniel Doel
@@ -91,6 +94,7 @@ Roxana Murgan León
 Russell Sim
 Samuel El-Borai
 Scott Mcdonald
+Shane Auckland
 Stefan Lehmann
 Steve Philipp
 Steven J Drinnan
