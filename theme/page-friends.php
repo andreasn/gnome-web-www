@@ -188,6 +188,18 @@ small {
   font-size: 12px;
   color: gray;
 }
+
+.donate-button {
+  background: #73d216;
+  border: 1px solid #64b11b;
+  border-radius: 4px;
+  padding: 5px 10px;
+}
+
+.donate-button:hover {
+  cursor: pointer;
+}
+
 </style>
 
     <!-- container -->
@@ -390,9 +402,9 @@ function print_form_shirts() {
                       <?php print_form_questions_gift_listname_note(); ?>
 
                       <!-- Display the payment button. -->
-                      <input type="image" alt="PayPal - The safer, easier way to pay online" name=
-                      "submit" src=
-                      "http://www.gnome.org/wp-content/themes/gnome-grass/images/donate-button.png" />
+                      <button type="sumbit" alt="PayPal - The safer, easier way to pay online" name=
+                      "submit" class=
+                      "donate-button" />Make your donation now!</button>
                       <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1"
                       height="1" border="0" />
                     </form>

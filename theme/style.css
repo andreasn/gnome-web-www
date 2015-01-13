@@ -107,7 +107,17 @@ a:visited {
     border-right: 1px solid #ccc;
     padding-right: 6px;
     margin-right: 3px;
+    padding-top: 3px;
+    display: block;
 }
+
+@media only screen and (min-resolution: 2dppx) {
+    #global_domain_bar .tab a.root {
+        background-image: url(images/favicon@2x.png);
+        background-size: 16px 16px;
+    }
+}
+
 #global_domain_bar .tab a.root:last-child {
     border-right: 0;
     padding-right: 0;
@@ -131,26 +141,35 @@ a:visited {
     float: left;
     margin-right: 10px;
 }
+
 #header #logo {
     float: left;
-}
-#header #logo h1 {
-    margin: 0;
-}
-#header #logo img {
+    height: 76px;
+    background: url('images/gnome-logo.png') no-repeat;
     -webkit-transition: opacity 200ms ease-out;
     -moz-transition: opacity 200ms ease-out;
     transition: opacity 200ms ease-out;
     opacity: 1;
     margin-left: -3px;
+    padding-left: 34px;
     height: 76px;
     width: 199px;
 }
-#header #logo img:hover {
+
+#header #logo:hover {
     opacity: 0.85;
 }
 
+#header #logo h1 {
+    display: none;
+}
 
+@media only screen and (min-resolution: 2dppx) {
+    #header #logo {
+        background: url('images/gnome-logo@2x.png') no-repeat;
+        background-size: 200px 76px;
+    }
+}
 
 /* Top bar */
 /* ========================================================================== */
@@ -215,6 +234,7 @@ a:visited {
 #top_bar #main_search {
     text-align: right;
 }
+
 #top_bar input {
     margin: -8px 0 -8px -8px;
     line-height: 22px;
@@ -228,6 +248,16 @@ a:visited {
     border-left: 1px solid rgba(100%,100%,100%,0.3);
     outline: none;
 }
+
+@media only screen and (min-resolution: 2dppx) {
+    #top_bar input {
+        background: url('images/search-icon@2x.png') no-repeat;
+        background-size: 15px 15px;
+        background-position: 8px center;
+    }
+}
+ 
+
 #top_bar input.placeholder {
     color: #CCC;
 }
@@ -797,6 +827,58 @@ dl.icon_list dt img {
     margin-bottom: 0.8em;
 }
 
+/* Social Network icons for footer and News sidebar */
+/* ========================================================================== */
+
+
+.social_network_icons a p {
+    display: none;
+}
+
+.social_network_icons a {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.social_network_icons a.identica {
+    background: url('images/social_networks/identica.png');
+}
+
+.social_network_icons a.twitter {
+    background: url('images/social_networks/twitter.png');
+}
+
+.social_network_icons a.facebook {
+    background: url('images/social_networks/facebook.png');
+}
+
+.social_network_icons a.gplus {
+    background: url('images/social_networks/gplus.png');
+}
+
+@media only screen and (min-resolution: 2dppx) {
+    .social_network_icons a.identica {
+        background: url('images/social_networks/identica@2x.png');
+        background-size: 32px 32px;
+    }
+    .social_network_icons a.twitter {
+        background: url('images/social_networks/twitter@2x.png');
+        background-size: 32px 32px;
+    }
+    .social_network_icons a.facebook {
+        background: url('images/social_networks/facebook@2x.png');
+        background-size: 32px 32px;
+    }
+    .social_network_icons a.gplus {
+        background: url('images/social_networks/gplus@2x.png');
+        background-size: 32px 32px;
+    }
+}
+
+
 /* Page Navigation */
 /* ========================================================================== */
 
@@ -839,6 +921,7 @@ dl.icon_list dt img {
     height: 180px;
     margin-top: 0;
     clear: left;
+    margin-bottom: -3px;
 }
 #footer_art.none {
     height: 30px;
@@ -846,6 +929,101 @@ dl.icon_list dt img {
 }
 #footer_art.default {
     background-image: url(images/footer_arts/default.png);
+}
+
+#footer_art.404 {
+    background-image: url(images/footer_arts/404.png);
+}
+
+#footer_art.applications {
+    background-image: url(images/footer_arts/applications.png);
+}
+
+#footer_art.art {
+    background-image: url(images/footer_arts/art.png);
+}
+
+#footer_art.art-2 {
+    background-image: url(images/footer_arts/art-2.png);
+}
+
+#footer_art.balloons {
+    background-image: url(images/footer_arts/balloons.png);
+}
+
+#footer_art.community {
+    background-image: url(images/footer_arts/community.png);
+}
+
+#footer_art.friends {
+    background-image: url(images/footer_arts/friends.png);
+}
+
+#footer_art.i18n {
+    background-image: url(images/footer_arts/i18n.png);
+}
+
+#footer_art.search {
+    background-image: url(images/footer_arts/search.png);
+}
+
+#footer_art.search_no-results {
+    background-image: url(images/footer_arts/search_no-results.png);
+}
+
+#footer_art.support {
+    background-image: url(images/footer_arts/support.png);
+}
+
+@media only screen and (min-resolution: 2dppx) {
+    #footer_art.default {
+        background: url('images/footer_arts/default@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.404 {
+        background: url('images/footer_arts/404@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.applications {
+        background: url('images/footer_arts/applications@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.art {
+        background: url('images/footer_arts/art@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.art-2 {
+        background: url('images/footer_arts/art-2@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.balloons {
+        background: url('images/footer_arts/balloons@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.community {
+        background: url('images/footer_arts/community@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.friends {
+        background: url('images/footer_arts/friends@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.i18n {
+        background: url('images/footer_arts/i18n@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.support {
+        background: url('images/footer_arts/support@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.search {
+        background: url('images/footer_arts/search@2x.png');
+        background-size: 940px 180px;
+    }
+    #footer_art.search_no-results {
+        background: url('images/footer_arts/search_no-results@2x.png');
+        background-size: 940px 180px;
+    }
 }
 
 
@@ -858,6 +1036,12 @@ dl.icon_list dt img {
     margin-top: -33px;
 }
 
+@media only screen and (min-resolution: 2dppx) {
+    #footer_grass {
+        background: url('images/grass@2x.png');
+        background-size: 1028px 39px;
+    }
+}
 
 /* Footer */
 /* ========================================================================== */
@@ -925,19 +1109,6 @@ dl.icon_list dt img {
 #footer div.language a:hover span.switch {
     background: #fff;
     background: -moz-linear-gradient(bottom, #fff, #fff);
-}
-
-#footer div.icons {
-    float: right;
-}
-#footer div.icons a {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-    width: 220px;
-    height: 110px;
-    outline: none;
-    text-decoration: none;
 }
 
 #footer ul {

@@ -20,7 +20,7 @@ if (function_exists('wppo_get_lang')) {
 <meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 <title><?php wp_title('-', true, 'right'); ?> <?php bloginfo('name'); ?></title>
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo('stylesheet_url'); ?>" />
-<link rel="icon" type="image/png" href="<?php bloginfo('stylesheet_directory'); ?>/images/favicon.png" />
+<link rel="icon" type="image/png" href="<?php bloginfo('stylesheet_directory'); ?>/images/favicon.ico" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 <script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/loader.js"></script>
@@ -76,9 +76,7 @@ if (is_single() || is_page()) {
     
     <!-- header -->
     <div id="header" class="container_12">
-        <div id="logo" class="grid_3">
-            <h1><a title="<?php _e( 'Go to home page', 'grass' ); ?>" href="<?php echo home_url('/'); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/gnome-logo.png" alt="<?php echo _e('GNOME: The Free Software Desktop Project', 'grass');?>" /></a></h1>
-        </div>
+        <a title="<?php _e( 'Go to home page', 'grass' ); ?>" href="<?php echo home_url('/'); ?>" id="logo" class="grid_3"><h1>GNOME</h1></a>
         <div id="top_bar" class="grid_9">
             <div class="left">
                 <?php wp_nav_menu('menu=globalnav'); ?>
